@@ -12,7 +12,6 @@ import htmlCssInterview from '../../assets/htmlcssinterviewques.png';
 import cssCheatsheet from '../../assets/csscheatsheet.png';
 import mustDoLeetcode from '../../assets/100 must do leetcode problems.png';
 import codingPrinciples from '../../assets/7 coding principles.png';
-import resumeTips from '../../assets/basicCodingQues.png';
 import pentest from '../../assets/pentest.png';
 import oracleDsa from '../../assets/40oracle.png';
 import redisCheatsheet from '../../assets/redischeatsheet.png';
@@ -33,6 +32,8 @@ import js100Interview from '../../assets/100jsinterview.png';
 import java150Interview from '../../assets/150java.png';
 import nodeDeployment from '../../assets/0-100node.js.png';
 import node40Interview from '../../assets/40+ node js.png';
+import resumeTips from '../../assets/resumetips.png';
+import hremails from '../../assets/hremails.png'
 
 const resourceData = [
   {
@@ -306,6 +307,13 @@ const resourceData = [
     price: "₹9",
     link: "https://topmate.io/meet_g/1851084",
     image: node40Interview
+  },{
+    id:34,
+    title: "2000+ HR emails & Famous IT companies emails",
+    description:"This includes combined 2000+ emails of HR and IT companies",
+    price:"FREE",
+    link:"https://topmate.io/meet_g/1870617",
+    image: hremails
   }
 ];
 
