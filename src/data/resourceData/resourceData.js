@@ -37,6 +37,28 @@ import hremails from '../../assets/hremails.png'
 
 const resourceData = [
   {
+    id: 22,
+    title: "SQL Beginner to Advanced (0 - 100)",
+    description: "Complete SQL learning roadmap from basics to advanced concepts",
+    price: "Free",
+    link: "https://topmate.io/meet_g/1850885",
+    image: sql0to100
+  },
+  {
+    id: 2,
+    title: "List of Companies hiring freshers offcampus",
+    description: "Curated list of companies actively hiring fresh graduates off-campus",
+    price: "Free",
+    link: "https://topmate.io/meet_g/1850858",
+    image: fresherHiring
+  },{
+    id:34,
+    title: "2000+ HR emails & Famous IT companies emails",
+    description:"This includes combined 2000+ emails of HR and IT companies",
+    price:"FREE",
+    link:"https://topmate.io/meet_g/1870617",
+    image: hremails
+  },{
     id: 0,
     title: "React.js Vs Next.js Notes",
     description: "Comprehensive comparison guide between React.js and Next.js frameworks",
@@ -51,14 +73,6 @@ const resourceData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850861",
     image: promiseVsAsync
-  },
-  {
-    id: 2,
-    title: "List of Companies hiring freshers offcampus",
-    description: "Curated list of companies actively hiring fresh graduates off-campus",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850858",
-    image: fresherHiring
   },
   {
     id: 3,
@@ -212,14 +226,7 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1850892",
     image: playwright
   },
-  {
-    id: 22,
-    title: "SQL Beginner to Advanced (0 - 100)",
-    description: "Complete SQL learning roadmap from basics to advanced concepts",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850885",
-    image: sql0to100
-  },
+  
   {
     id: 23,
     title: "Node.js Cheat Sheet",
@@ -307,13 +314,6 @@ const resourceData = [
     price: "₹9",
     link: "https://topmate.io/meet_g/1851084",
     image: node40Interview
-  },{
-    id:34,
-    title: "2000+ HR emails & Famous IT companies emails",
-    description:"This includes combined 2000+ emails of HR and IT companies",
-    price:"FREE",
-    link:"https://topmate.io/meet_g/1870617",
-    image: hremails
   }
 ];
 

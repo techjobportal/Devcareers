@@ -466,7 +466,7 @@ Feedback Round: Discussion with the leadership team.
 Selection Round: Final decision and offer discussion.
 `
 },{
-  id: 31,
+  id: 32,
   company: "Wiggler",
   role: "Full Stack Engineer Intern",
   hiringLink: "https://wellfound.com/jobs/3700639-full-stack-engineer-intern",
@@ -496,7 +496,7 @@ Personal projects, internships, or open-source contributions
 Basic understanding of Git and deployment workflows
 `
 },{
-  id: 32,
+  id: 33,
   company: "Novixpert Tech Inc. ",
   role: "Fullstack Developer",
   hiringLink: "https://cuvette.tech/app/public/job/69329b0759e91466630885b0?referralCode=4RIF3Q",
@@ -525,7 +525,7 @@ Opportunity to contribute to innovative vision-intelligence projects.
 Flexible working hours and a collaborative, growth-oriented environment.
 `
 },{
-  id: 33,
+  id: 34,
   company: "Exora Labs pvt ltd",
   role: "Fullstack Developer Job",
   hiringLink: "https://cuvette.tech/app/public/job/693aee3559e9146663381abf?referralCode=4RIF3Q",

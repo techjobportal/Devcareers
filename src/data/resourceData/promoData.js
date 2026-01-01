@@ -33,16 +33,31 @@ import js100Interview from '../../assets/100jsinterview.png';
 import java150Interview from '../../assets/150java.png';
 import nodeDeployment from '../../assets/0-100node.js.png';
 import node40Interview from '../../assets/40+ node js.png';
-
+import hremails from '../../assets/hremails.png'
 const ResourcesData = [
   {
-    id: 0,
-    title: "React.js Vs Next.js Notes",
-    description: "Comprehensive comparison guide between React.js and Next.js frameworks",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850867",
-    image: reactVsNext
-  },
+      id: 22,
+      title: "SQL Beginner to Advanced (0 - 100)",
+      description: "Complete SQL learning roadmap from basics to advanced concepts",
+      price: "Free",
+      link: "https://topmate.io/meet_g/1850885",
+      image: sql0to100
+    },
+    {
+      id: 2,
+      title: "List of Companies hiring freshers offcampus",
+      description: "Curated list of companies actively hiring fresh graduates off-campus",
+      price: "Free",
+      link: "https://topmate.io/meet_g/1850858",
+      image: fresherHiring
+    },{
+      id:34,
+      title: "2000+ HR emails & Famous IT companies emails",
+      description:"This includes combined 2000+ emails of HR and IT companies",
+      price:"FREE",
+      link:"https://topmate.io/meet_g/1870617",
+      image: hremails
+    },
   {
     id: 1,
     title: "Promise vs Async_Await",
@@ -74,22 +89,6 @@ const ResourcesData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850855",
     image: javaCheatsheet
-  },
-  {
-    id: 5,
-    title: "MERN Stack Roadmap (0 - 100)",
-    description: "Complete learning path from beginner to advanced MERN stack development",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850845",
-    image: mernRoadmap
-  },
-  {
-    id: 6,
-    title: "MongoDB Cheatsheet",
-    description: "Essential MongoDB commands and operations reference guide",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850836",
-    image: mongoCheatsheet
   },
 ];
 

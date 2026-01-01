@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import ResourcesData from '../data/resourceData/resourceData';
 import { placeholderWords } from '../data/resourceData/searchBarData';
 import booksIcon from "../assets/svg/books.svg";
@@ -8,6 +8,45 @@ function Resources() {
   const [placeholder, setPlaceholder] = useState('');
   const [wordIndex, setWordIndex] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
+
+  // Priority resource IDs that should always appear first
+  const priorityIds = [22, 2, 34];
+
+  // Shuffle array function using Fisher-Yates algorithm
+  const shuffleArray = (array) => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  };
+
+  // Organize resources: priority first, then shuffled others
+  // This runs only once when component mounts
+  const organizedResources = useMemo(() => {
+    const priority = [];
+    const others = [];
+
+    // Separate priority and other resources
+    ResourcesData.forEach(resource => {
+      if (priorityIds.includes(resource.id)) {
+        priority.push(resource);
+      } else {
+        others.push(resource);
+      }
+    });
+
+    // Sort priority resources by the order in priorityIds
+    priority.sort((a, b) => 
+      priorityIds.indexOf(a.id) - priorityIds.indexOf(b.id)
+    );
+
+    // Shuffle the other resources
+    const shuffledOthers = shuffleArray(others);
+
+    return [...priority, ...shuffledOthers];
+  }, []); // Empty dependency array - runs once on mount
 
   // Typing animation effect
   useEffect(() => {
@@ -35,7 +74,8 @@ function Resources() {
     return () => clearTimeout(timer);
   }, [placeholder, isDeleting, wordIndex]);
 
-  const filteredResources = ResourcesData.filter(resource => {
+  // Filter resources based on search query
+  const filteredResources = organizedResources.filter(resource => {
     const query = searchQuery.toLowerCase();
     return (
       resource.title.toLowerCase().includes(query) ||
@@ -51,41 +91,41 @@ function Resources() {
       </h3>
 
       {/* Search Box */}
-<div className="mb-6 flex flex-col items-center">
-  <div className="relative w-full max-w-xl">
-    <input
-      type="text"
-      placeholder={placeholder}
-      value={searchQuery}
-      onChange={(e) => setSearchQuery(e.target.value)}
-      className="w-full px-4 py-3 pl-11 border border-amber-300 rounded-lg
-                 focus:outline-none focus:ring-2 focus:ring-amber-500
-                 focus:border-transparent text-black"
-    />
+      <div className="mb-6 flex flex-col items-center">
+        <div className="relative w-full max-w-xl">
+          <input
+            type="text"
+            placeholder={placeholder}
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full px-4 py-3 pl-11 border border-amber-300 rounded-lg
+                       focus:outline-none focus:ring-2 focus:ring-amber-500
+                       focus:border-transparent text-black"
+          />
 
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      className="h-5 w-5 text-amber-500 absolute left-3 top-1/2 -translate-y-1/2"
-      fill="none"
-      viewBox="0 0 24 24"
-      stroke="currentColor"
-    >
-      <path
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth={2}
-        d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-      />
-    </svg>
-  </div>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-5 w-5 text-amber-500 absolute left-3 top-1/2 -translate-y-1/2"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+            />
+          </svg>
+        </div>
 
-  {searchQuery && (
-    <p className="mt-2 text-sm text-gray-600 text-center">
-      Found {filteredResources.length} resource
-      {filteredResources.length !== 1 ? 's' : ''}
-    </p>
-  )}
-</div>
+        {searchQuery && (
+          <p className="mt-2 text-sm text-gray-600 text-center">
+            Found {filteredResources.length} resource
+            {filteredResources.length !== 1 ? 's' : ''}
+          </p>
+        )}
+      </div>
 
       {/* Mobile List + Desktop Grid */}
       {filteredResources.length > 0 ? (
@@ -143,7 +183,7 @@ function Resources() {
           </div>
 
           {/* DESKTOP GRID */}
-          <div className="hidden lg:grid lg:grid-cols-4 gap-6 ml-8 mr-8">
+          <div className="hidden lg:grid lg:grid-cols-5 gap-6 ml-8 mr-8">
             {filteredResources.map(resource => (
               <div
                 key={resource.id}
@@ -203,18 +243,16 @@ function Resources() {
         </div>
       )}
 
-
-      <h3 className="text-center mb-4 mt-4 ">
-          <a href="/contact-us" className="inline-flex items-center gap-2 text-2xl font-semibold text-orange-500 hover:text-orange-600 transition-colors group">
-          In case of missing resources in purchase please contact us. <br></br>
-            Couldn't find what you were looking for? Reach out to us!
-            <svg className="w-6 h-6 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </a>
-        </h3>
+      <h3 className="text-center mb-4 mt-4">
+        <a href="/contact-us" className="inline-flex items-center gap-2 text-2xl font-semibold text-orange-500 hover:text-orange-600 transition-colors group">
+          In case of missing resources in purchase please contact us. <br />
+          Couldn't find what you were looking for? Reach out to us!
+          <svg className="w-6 h-6 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>
+      </h3>
     </div>
-    
   );
 }
 
