@@ -465,6 +465,128 @@ Technical Round: Assessment of business development strategies and skills.
 Feedback Round: Discussion with the leadership team.
 Selection Round: Final decision and offer discussion.
 `
+},{
+  id: 31,
+  company: "Wiggler",
+  role: "Full Stack Engineer Intern",
+  hiringLink: "https://wellfound.com/jobs/3700639-full-stack-engineer-intern",
+  shortdescription: "N/A",
+  location: "Remote, Banglore",
+  Stipend: "₹60,000 – ₹60,000",
+  fulldescription:`
+We are looking for a Founding Full Stack Engineer Intern to work closely with the founding team and help build Wiggler from the ground up.
+This is a hands-on role where you will contribute to real product features across frontend and backend. You will learn how early-stage products are designed, built, and shipped, while working on a live app used by kids and families.
+We value curiosity, ownership, and clean thinking more than years of experience.
+What you will work on
+Build and improve frontend features using modern frameworks (React, React Native, or similar)
+Support backend development such as APIs, data models, and integrations
+Work with databases, authentication, and basic system logic
+Fix bugs, improve performance, and refactor code with guidance
+Collaborate with design and product to understand user needs
+What we look for
+Basic to intermediate knowledge of frontend and backend development
+Familiarity with JavaScript, TypeScript, or Python
+Understanding of REST APIs and databases
+Willingness to learn, ask questions, and take feedback
+Ability to work independently and communicate clearly
+Interest in building meaningful products, especially for kids
+Nice to have
+Experience with React, Node.js, or similar frameworks
+Personal projects, internships, or open-source contributions
+Basic understanding of Git and deployment workflows
+`
+},{
+  id: 32,
+  company: "Novixpert Tech Inc. ",
+  role: "Fullstack Developer",
+  hiringLink: "https://cuvette.tech/app/public/job/69329b0759e91466630885b0?referralCode=4RIF3Q",
+  shortdescription: "N/A",
+  location: "Jaipur, India",
+  Stipend: "₹3 LPA - 4 LPA",
+  fulldescription:`
+As a Full Stack Developer Intern, you will work on developing end-to-end software applications that support high-performance vision-intelligence systems. You will help design, build, and optimize both the front-end and back-end components, ensuring seamless integration with machine learning pipelines and edge-based devices. This internship offers a unique opportunity to gain hands-on experience with modern web technologies, APIs, and scalable application architectures in a dynamic and supportive environment.
+Key Responsibilities:
+Collaborate with software and machine learning engineers to understand project requirements and objectives.
+Develop and maintain front-end components using modern web technologies.
+Assist in writing clean, scalable code and participating in code reviews.
+Troubleshoot and resolve issues related to API calls, UI functionality, and backend performance.
+Document development processes, API specifications, and system updates.
+Qualifications:
+Recently graduated with a degree in Computer Science, Software Engineering, IT, or a related field.
+Basic understanding of full stack development concepts.
+Knowledge of RESTful APIs and basic software architecture principles.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Eagerness to learn and adapt to new technologies and frameworks.
+What We Offer:
+Hands-on experience with full stack development in real-world applications.
+Mentorship from experienced engineers and developers.
+Opportunity to contribute to innovative vision-intelligence projects.
+Flexible working hours and a collaborative, growth-oriented environment.
+`
+},{
+  id: 33,
+  company: "Exora Labs pvt ltd",
+  role: "Fullstack Developer Job",
+  hiringLink: "https://cuvette.tech/app/public/job/693aee3559e9146663381abf?referralCode=4RIF3Q",
+  shortdescription: "",
+  location: "Banglore, India",
+  Stipend: "₹3LPA - 4LPA",
+  fulldescription:`
+We’re looking for a Full-Stack Developer who can own the development of this platform end-to-end — from scalable backend systems to polished frontend interfaces inside hospital EMRs.
+This role is ideal for someone who wants to work at the intersection of AI, healthcare, and systems engineering and help build the future of doctor-assistive intelligence.
+Key Responsibilities
+Backend (70%)
+Architect and build a multi-agent orchestration layer (LLM + tools + workflows).
+Develop secure and scalable APIs 
+Build and maintain:
+Event-driven pipelines
+Async agent task frameworks
+Implement role-based access, audit logs, encryption, and compliance (HIPAA/GDPR-equivalent).
+Integrate with hospital EMRs (HL7, FHIR, custom APIs, webhooks).
+Frontend (30%)
+Build highly responsive UIs in React / Next.js / Vue.
+Develop iframe-embeddable EMR components with low memory footprint.
+Create tools for doctors:
+Optimize for speed, clarity, and zero cognitive load.
+Tech Stack You’ll Use
+Backend:
+Node.js / Python (FastAPI / Django)
+PostgreSQL / MongoDB
+Redis / RabbitMQ / Kafka
+LLM APIs (OpenAI, Gemini, Llama, LangChain, RAG systems)
+Docker, Kubernetes
+Frontend:
+React / Next.js
+Tailwind
+Typescript
+Microfrontend / iframe integrations
+DevOps:
+CI/CD (GitHub Actions)
+Cloud: AWS / GCP / Azure
+Monitoring: Prometheus + Grafana
+Required Skills
+Core Engineering
+Strong command of modern full-stack development (React + Node/Python).
+Experience with microservices and API design.
+Deep experience with distributed systems, async workloads, queues.
+AI Engineering
+Experience with LLMs, prompt engineering, embeddings, vector DBs.
+Ability to build agentic workflows (LangChain, OpenAI Assistants, tools, custom agent frameworks).
+Healthcare Integration (bonus, not mandatory)
+FHIR / HL7 / EMR APIs
+Working with clinical terminologies (ICD-10, SNOMED, LOINC)
+Soft Skills
+Ownership mindset
+Ability to design scalable architectures
+Comfortable working in fast-moving startup environment
+Excellent documentation and clean coding habits
+What You Will Build
+You will directly develop the core components of our physician-facing system:
+Multi-Agent Clinical Workflow Engine
+EMR-integrated Doctor Co-Pilot
+This role has high ownership: you will influence the technical architecture, agent design, hospital integrations, and product roadmap.
+`
 }
 ]
 
