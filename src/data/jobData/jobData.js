@@ -423,6 +423,48 @@ Portfolio (academic, personal, or freelance projects) demonstrating design think
 Good communication skills and ability to accept feedback
 Open to learning, experimenting, and iterating quickly
 `
+},{
+  id: 31,
+  company: "The Fast way",
+  role: "Backend Developer",
+  hiringLink: "https://www.naukri.com/job-listings-backend-developer-the-fast-way-mumbai-navi-mumbai-0-to-2-years-301225505178",
+  shortdescription: "N/A",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+We are seeking a skilled Backend Developer to join our team in building scalable, secure, and high-performance server-side applications. The ideal candidate will have a strong grasp of backend technologies, database management, and API development. If you have a passion for problem-solving and creating robust systems, we d love to hear from you.
+Experience with database systems (MongoDB,MySQL,or similar.
+Develop and maintain server-side logic and databases for web applications.
+Design and optimize APIs to ensure efficient data exchange between front-end and back-end systems.
+Implement data security measures, including authentication and authorization mechanisms
+Troubleshoot, debug, and resolve performance issues to ensure smooth application functionality.
+Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+Write clean, maintainable, and scalable code while adhering to coding standards.
+Conduct code reviews and provide constructive feedback.
+Stay updated on industry best practices and emerging backend technologies.
+Document code, APIs, and technical specifications for seamless project communication.
+Requirements
+Strong proficiency in Node.js and frameworks like Express.js or Koa.
+Solid understanding of RESTful API development and integration.
+Experience with database systems (MongoDB, MySQL, or similar).
+Familiarity with version control systems like Git.
+Basic knowledge of front-end technologies (HTML, CSS, JavaScript) for integration purposes.
+Understanding of DevOps practices and CI/CD pipelines is a plus.
+Excellent problem-solving and debugging skills.
+Fluent English.
+What make us a great place to work
+Innovative Projects: Work on challenging and cutting-edge technologies.
+Career Growth: Opportunities for learning, skill development, and career advancement.
+Collaborative Culture: Work in a supportive team environment where ideas are valued.
+Comprehensive Benefits: Competitive salary, health insurance, and performance bonuses.
+Work-Life Balance: Flexible working hours and a hybrid work model.
+Interview Process
+The selection process will take approximately 2-3 weeks and includes the following stages:
+Screening Round: Resume evaluation.
+Technical Round: Assessment of business development strategies and skills.
+Feedback Round: Discussion with the leadership team.
+Selection Round: Final decision and offer discussion.
+`
 }
 ]
 
