@@ -796,6 +796,184 @@ Familiarity with Git and version control workflows
 Ability to learn fast and work independently
 Comfortable working in a high-speed startup setup
 `
+},{
+  id: 42,
+  company: "InGroInfo Software Soultion Pvt. Ltd.",
+  role: "Software Test Engineer",
+  hiringLink: "https://unstop.com/o/L5UMqtA?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Bangalore Urban",
+  Stipend: "N/A",
+  fulldescription:`
+Perform simulation testing to validate system behaviour under different operating conditions. 
+Design, develop, and execute test cases for desktop, web, and mobile applications. 
+Conduct manual and automated testing to ensure the quality of products. 
+Develop and maintain automation test scripts using frameworks such as Selenium, TestNG, or JUnit. 
+Execute manual API testing using tools like Postman and assist in API automation framework setup. 
+Perform validation testing to ensure product compliance with design and requirement specifications. 
+Collaborate with development and QA teams to identify, reproduce, and resolve issues. 
+Prepare and maintain test plans, test cases, and test reports. 
+Ensure software meets functional, performance, and reliability standards before deployment. 
+Solid understanding of software testing concepts including SDLC, STLC, and defect lifecycle. 
+Hands-on or academic exposure to manual and automation testing tools (Selenium, TestNG, JUnit, Postman, etc.). 
+Exposure to API Automation Testing and understanding of RESTful services. 
+Basic understanding of simulation environments or test benches. 
+Knowledge of programming/scripting languages like Java, Android (Kotlin/Java), or C. 
+Familiarity with validation techniques and quality documentation practices. 
+Strong analytical, debugging, and problem-solving skills. 
+Good communication and collaboration abilities. 
+`
+},{
+  id: 43,
+  company: "Frontend Developer Internship",
+  role: "Bluemutulfund",
+  hiringLink: "https://unstop.com/o/N4Jj5mi?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  shortdescription: "N/A",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+Roles:
+
+Build and enhance frontend interfaces using React.js (Web) and Flutter (Mobile).
+Collaborate with backend engineers (Node.js, Express, PostgreSQL) to consume REST APIs.
+Implement responsive and SEO-friendly UI/UX using HTML5, CSS3, Tailwind, and Bootstrap.
+Work on job listing pages, dashboards, and candidate profile systems.
+Optimize web performance, page speed, and accessibility for SEO.
+Contribute to bug fixing, UI testing, and component optimization.
+Participate in code reviews, version control (Git/GitHub), and sprint discussions.
+Implement modern UI frameworks and reusable component architecture.
+Responsibilities:
+
+Develop pixel-perfect, responsive web pages using React.js and Next.js.
+Integrate APIs and dynamic data visualization using charts and reusable components.
+Maintain consistency between Web, Flutter, and Android versions via shared design systems.
+Follow best coding practices, including error handling, code splitting, and modular architecture.
+Write clean, commented, and reusable code with proper version control.
+Work closely with the design team (Figma) to convert UI/UX wireframes into functional screens.
+Ensure cross-browser compatibility and SEO-optimized markup.
+Collaborate with backend developers for secure and smooth data flow.
+Requirements:
+
+Good understanding of HTML5, CSS3, JavaScript (ES6+), and React.js.
+Basic knowledge of REST APIs and JSON integration.
+Familiarity with Flutter or willingness to learn mobile UI frameworks.
+Knowledge of Git / GitHub, VS Code, and debugging tools.
+Understanding of responsive design, SEO basics, and accessibility.
+Passion for learning startup-scale development and working in an agile environment.
+Strong problem-solving, communication, and teamwork skills.
+Bonus Skills:
+
+Familiarity with Next.js, Tailwind CSS, Bootstrap 5, TypeScript, or Redux.
+`
+},{
+  id: 44,
+  company: "FlatUIUX",
+  role: "Data Science Internship",
+  hiringLink: "https://unstop.com/o/mG4Q6Az?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  shortdescription: "N/A",
+  location: "Pune",
+  Stipend: "₹ 8K - 15K/Month",
+  fulldescription:`
+Responsibilities of the Intern:
+
+Data Collection & Preprocessing: Gather, clean, and preprocess structured and unstructured data from various sources (databases, APIs, spreadsheets, etc.).
+Exploratory Data Analysis (EDA): Perform statistical analysis and visualization to uncover trends, patterns, and insights.
+Machine Learning & Modeling: Assist in building, testing, and optimizing machine learning models for predictive analytics.
+Data Visualization & Reporting: Create dashboards, charts, and reports using visualization tools like Tableau, Power BI, Matplotlib, or Seaborn.
+Collaboration: Work with cross-functional teams, including software engineers and product managers, to support data-driven projects.
+Documentation & Research: Document data processing workflows, methodologies, and key findings for future reference.
+Continuous Learning: Stay updated with industry trends, tools, and techniques to enhance analytical skills.
+Requirements:
+
+Proficiency in Python or R for data analysis and machine learning.
+Familiarity with data manipulation libraries (Pandas, NumPy, SciPy, etc.).
+Basic knowledge of machine learning frameworks (scikit-learn, TensorFlow, PyTorch, etc.).
+Experience with SQL for querying databases and extracting data.
+Strong analytical skills with an understanding of statistics and probability.
+Ability to create data visualizations and interpret insights effectively.
+Strong communication and problem-solving skills.
+Enthusiasm to learn and apply new technologies in a fast-paced environment.
+`
+},{
+  id: 45,
+  company: "Isaii",
+  role: "Junior MERN Developer Internship",
+  hiringLink: "https://unstop.com/o/YZRmBNG?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  shortdescription: "N/A",
+  location: "Remote",
+  Stipend: "N/A",
+  fulldescription:`
+Assist in designing, developing, and maintaining web applications using the MERN stack.
+Write clean, efficient, and reusable code.
+Collaborate with the team to understand project requirements and deliver solutions.
+Debug and troubleshoot technical issues.
+Contribute to frontend and backend features as needed.
+Stay updated with the latest trends, tools, and best practices in web development.
+Participate in team discussions, code reviews, and project documentation.
+Requirements:
+
+Basic understanding of HTML, CSS, and JavaScript.
+Familiarity with React.js for frontend development.
+Knowledge of Node.js and Express.js for backend development.
+Understanding of MongoDB or other databases.
+Problem-solving mindset with willingness to learn new technologies.
+Ability to work in a team environment with good communication skills.
+Pursuing or recently completed a degree in Computer Science, IT, or a related field.
+`
+},{
+  id: 46,
+  company: "Inhouse digital",
+  role: "Video Editor",
+  hiringLink: "N/A",
+  shortdescription: "N/A",
+  location: "Noida",
+  Stipend: "₹ 3.6L - 4.8 LPA",
+  fulldescription:`
+Capture and document key moments across the office, shoots, events, and creative sessions for archival and brand storytelling
+Support founders with day-to-day visual needs including photos, short videos, behind-the-scenes clips, and creative documentation
+Edit and create high-quality visuals (videos, reels, photos, montages, decks) for internal use, social media, and brand communication
+Maintain and organize the visual archive ensuring all media assets (photos, videos, project folders) are labeled, sorted, and accessible
+Assist in concept development for visual storytelling collaborating with content, strategy, and design teams
+Create simple motion edits, montages, or story sequences to communicate brand narratives clearly and emotionally
+Participate in shoots (in-house or on-location) handling documentation, b-roll, and coordination
+Maintain consistent visual identity across all outputs with tone, color, framing, and style aligned with the brand’s aesthetic
+Requirements:
+
+Understanding of framing, light, and composition with ability to shoot both on phone and camera
+Strong sense of visual rhythm and storytelling flow
+Highly organized with an eye for detail and aesthetics
+Self-motivated and dependable with ability to manage end-to-end tasks with minimal supervision
+`
+},{
+  id: 47,
+  company: "Acadme EdTech Pvt. Ltd.",
+  role: "Full Stack Web Development Internship",
+  hiringLink: "https://unstop.com/o/rajVinB?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  shortdescription: "N/A",
+  location: "Remote",
+  Stipend: "₹ 20K - 35K/Month",
+  fulldescription:`
+Responsibilities of the Intern:
+
+Develop and implement user-facing features using modern front-end technologies.
+Build and maintain robust back-end services and APIs.
+Collaborate with designers and product managers to translate requirements into functional web applications.
+Write clean, efficient, and well-documented code for both front-end and back-end components.
+Participate in code reviews to ensure code quality and share knowledge.
+Troubleshoot, debug, and upgrade existing software.
+Assist in the deployment and maintenance of web applications.
+Stay updated with the latest trends and best practices in full-stack web development.
+Contribute to the overall architecture and design of web solutions.
+Work closely with the team to identify and resolve technical challenges.
+Requirements:
+
+This is an internship opportunity.
+Skills and Qualifications:
+
+Demonstrated ability to contribute to the development of web applications, showcasing foundational understanding of both front-end and back-end technologies.
+Eagerness to learn and apply new technologies and methodologies in a fast-paced development environment.
+Strong problem-solving skills and a proactive approach to identifying and resolving technical issues.
+`
 }
 ]
 
