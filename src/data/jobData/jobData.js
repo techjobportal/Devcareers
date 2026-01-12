@@ -974,6 +974,29 @@ Demonstrated ability to contribute to the development of web applications, showc
 Eagerness to learn and apply new technologies and methodologies in a fast-paced development environment.
 Strong problem-solving skills and a proactive approach to identifying and resolving technical issues.
 `
+},{
+  id: 48,
+  company: "Stripe",
+  role: "Software Engineering, New Grad",
+  hiringLink: "https://stripe.com/jobs/listing/software-engineering-new-grad/7176975",
+  shortdescription: "N/A",
+  location: "Bengaluru",
+  Stipend: "₹50+ LPA",
+  fulldescription:`
+Work on cross-functional projects, directly collaborating with other engineers
+Give meaningful feedback on code reviews and technical designs
+Ensure that the systems your team operates continue running well and can scale to meet the needs of our users
+Build the skills to own a project from beginning to end, learning project management and technical leadership skills
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+A Bachelor’s, Master’s, or PhD degree in computer science or a directly related field, obtained by summer 2026, or equivalent work experience
+Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
+Experience from either previous internships or working collaboratively on multi-person coding projects (in a university or professional setting)
+Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+Preferred qualifications
+One or more areas of specialized knowledge balanced with general skills and knowledge, such as knowing more frontend technologies and, at a high level, how a service handles an HTTP request
+Experience in code review practices, and an understanding of how to safely update production systems
+Familiarity with navigating and managing work in large code bases
+`
 }
 ]
 
