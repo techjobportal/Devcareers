@@ -732,7 +732,7 @@ Understanding of telecom charging, billing flows, and product hierarchy best pra
 `
 },{
   id: 40,
-  company: "N/A",
+  company: "Achnet",
   role: "Software Development Engineer",
   hiringLink: "https://www.achnet.com/business/5d417350709d29c84098c3db/public/careers/696009f78c57ab0f2b84f128?type=default&uid=696009f78c57ab0f2b84f128&mod=jobs",
   shortdescription: "N/A",
@@ -999,7 +999,7 @@ Familiarity with navigating and managing work in large code bases
 `
 },{
   id: 49,
-  company: "Deloitee",
+  company: "Deloitte",
   role: "National Level Assessment Engineering track",
   hiringLink: "https://usrecruiting.deloitte.com/nla-by-deloitte-usi2#subpage/engineering/content/357994815",
   shortdescription: "N/A",
@@ -1025,6 +1025,223 @@ Master of Computer Application
 The year of graduation should be 2026
 Aggregate of 60% or equivalent CGPA and above in current degree with no active backlogs
 Your compensation will be – INR 4 Lakh plus variable benefits.
+`
+},{
+  id: 50,
+  company: "IBM",
+  role: "Associate System Engineer",
+  hiringLink: "https://careers.ibm.com/en_US/careers/JobDetail?jobId=86093",
+  shortdescription: "N/A",
+location:"Hybrid, India",
+  Stipend: "N/A",
+  fulldescription:`
+Role & Responsibilities
+
+Design, develop, and support applications using the Java/JEE technology stack.
+
+Build web applications using Java frameworks and languages like Ruby or Groovy.
+
+Implement transaction management and manage Java objects.
+
+Integrate enterprise systems for seamless application functionality.
+
+Apply modern development practices like dependency injection, IoC, AOP, functional programming, and TDD.
+
+Work with data access frameworks, transaction frameworks, and batch processing.
+
+Use DevOps tools and methodologies for efficient development and deployment.
+
+Education
+
+Required: Bachelor’s Degree
+
+Preferred: Bachelor’s Degree
+
+Required Technical & Professional Expertise
+
+Programming skills in Java, C++, Python, or Node.js.
+
+Good understanding of Software Development Life Cycle (SDLC).
+
+No active academic backlogs.
+
+Must have completed degree before joining IBM.
+
+Only 2024 & 2025 pass-out candidates are eligible.
+
+BE/BTech in CSE, AIML, DS, Cloud, Big Data, CSBS, IoT, Robotics, AI, Cybersecurity, Blockchain, or IT-related branches.
+
+Minimum 6 CGPA or 60% required.
+
+Strong written and spoken communication skills.
+
+Preferred Experience
+
+Engineering background with strong problem-solving skills.
+
+Good interpersonal and teamwork abilities.
+
+Willing to work from anywhere in India.
+`
+},{
+  id: 51,
+  company: "Visa",
+  role: "SW Engineer",
+  hiringLink: "https://jobs.smartrecruiters.com/Visa/744000102990917-sw-engineer",
+  shortdescription: "N/A",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Design, implement and evolve highly scalable and fault-tolerant distributed components using functional programming paradigm
+Participate in business requirements review and build functional & technical design documentation
+Design and implement testing procedures for: APIs, abstractions and integration patterns to solve challenging distributed computing problems covering end to end tests and integration scenarios.
+Participate in design reviews to provide input on functional/non-functional requirements, product designs, schedules, or potential problems.
+Work across the team to ensure the team is predictable, productive, and delivering high quality.
+Review code and accountability for team's development/testing activities
+Participate in proof of concepts and other technical evaluations of new technologies
+This is a hybrid position. Expectation of days in office will be confirmed by your hiring manager.
+Basic Qualifications
+• Bachelor's degree, OR 3+ years of relevant work experience
+
+Preferred Qualififcations
+• Bachelor’s Degree or an Advanced Degree
+• 0-1 years of work experience in technology industry with coding and testing skills.
+• Strong technical competency and experience with web applications, web services, Java, JavaScript, J2EE, XML, unit-testing, shell-scripting and RDBMS is a plus.
+• Experience with Cassandra/solr/nosql experience as a plus.
+• Continuous Integration, Code/Test coverage working in different methodologies is a plus.
+• Must have proactive and strong communications to work well across teams.
+`
+},{
+  id: 52,
+  company: "Zoho",
+  role: "Software Developer",
+  hiringLink: "https://unstop.com/jobs/software-developer-zoho-1618866",
+  shortdescription: "N/A",
+  location: "Chennai, Coimbatore, Madurai, Salem, Tirunelveli",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidate:
+
+Design and develop high-volume, low-latency applications for mission-critical systems, ensuring top-tier availability and performance.
+Contribute to all phases of the product development lifecycle.
+Write well-designed, testable, and efficient code.
+Ensure designs comply with specifications.
+Prepare and produce releases of software components.
+Support continuous improvement by investigating alternate technologies and presenting these for architectural review.
+`
+},{
+  id: 53,
+  company: "CloudCache Consulting",
+  role: "Software Trainee",
+  hiringLink: "https://unstop.com/o/rdotSx2?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: " Coondapoor, Karnataka",
+  Stipend: "₹ 2.4L - 2.5 LPA",
+  fulldescription:`
+Key Skills:
+
+Strong logic and analytical thinking
+Programming knowledge (C/C++/Java/Python)
+Basic understanding of databases, web technologies, and SDLC
+Good communication and teamwork skills
+Roles & Responsibilities:
+
+Support software development, testing, and debugging
+Learn modern tools and technologies
+Collaborate with senior developers on live projects
+`
+},{
+  id: 54,
+  company: "ACI Automation Pvt. Ltd.",
+  role: "Production Engineer",
+  hiringLink: "https://unstop.com/o/pWyDxh6?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Chennai ",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities:
+
+Initiate production only upon receiving confirmed orders from the Sales/Project team. 
+Review technical specifications and Bill of Materials (BOM) for each order. 
+Plan and schedule production activities based on delivery timelines and    resource availability. 
+Perform wiring, soldering (DIP and SMD), and integration of hardware with software interfaces. 
+Conduct SFO board testing, FQC (Final Quality Control), and servicing of old boards. 
+Perform functional testing of automation systems before dispatch. 
+Coordinate with the Stores and Purchase teams for timely availability of raw materials and components. 
+Work closely with the Project team for technical clarification. 
+Collaborate with R&D and Software teams for integration and testing of new modules. 
+Communicate with the Service team to ensure readiness for installation and support. 
+Report daily progress, challenges, and updates to supervisors and managers. 
+Prepare manuals and reports related to board testing and newly developed modules. 
+Requirements:
+
+Diploma or bachelor's degree in electrical, Electronics, Mechatronics, or related field. 
+Familiarity with automation components such as PLCs, sensors, displays, and embedded modules. 
+Ability to read and interpret technical drawings and wiring diagrams. 
+Strong attention to detail, problem-solving skills, and the ability to work in a team environment are needed. 
+
+`
+},{
+  id: 55,
+  company: "Nanosniff Technologies Pvt Ltd",
+  role: "Embedded Systems Engineer",
+  hiringLink: "https://unstop.com/o/Fih7d15?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Mumbai",
+  Stipend: "₹ 45K - 55K/Month",
+  fulldescription:`
+Responsibilities:
+
+Firmware development for embedded system
+Design and implementation of software for embedded devices from requirements to production and commercial deployment
+Testing and debugging system software
+Provide post production support
+Interface with hardware design and development
+Assess third party and open source software
+OS porting
+Documentation: Design Specification & release notes
+Qualifications and Skills:
+
+BE/B. Tech degree in Electronics/Computer Science; MSc Comp Science
+2 to 3 years of experience in hands-on development and troubleshooting on embedded targets
+Strong hands-on experience in C / C++ with strong debugging skills.
+Hands-on experience in Visual C#/C++.
+Experience in working with 8-16-32 bit microprocessor/Controller based hardware 8051, PIC, ARM 7 & its peripherals
+Understanding of Embedded Linux / Yocto
+Experience of Linux device driver development and Linux kernel Compiling
+Understanding and programming of networking and communication protocols
+Adequate knowledge of reading schematics and data sheets for components
+Strong documentation and writing skills
+Ability to work Individually & in team
+Good soft skills especially English speaking, communication skills & presentation skills
+`
+},{
+  id: 56,
+  company: "NPK Business Solutions",
+  role: "Junior Zoho Developer",
+  hiringLink: "https://unstop.com/o/Hz8J1Bm?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Bengaluru",
+  Stipend: "₹ 3 LPA",
+  fulldescription:`
+Role:
+
+Junior Zoho Developer – Application Development & Support
+Assist in Zoho application implementations and enhancements
+Act as a bridge between clients and senior developers
+Support ongoing Zoho projects and post-implementation activities
+Responsibilities:
+
+Coordinate with clients to understand business requirements and document them clearly (BRD, process flows, notes).
+Assist senior developers in configuring and customizing Zoho applications such as Zoho Creator, CRM, Books, Analytics, People, and Recruit.
+Provide functional and technical support to end users, including issue tracking, testing, and basic troubleshooting.
+Prepare user documentation, training materials, and support reports as required.
+Requirements
+
+Basic working knowledge of Zoho Creator, Zoho CRM, Zoho Books, Zoho Analytics, Zoho People, and Zoho Recruit.
+Understanding of business processes such as sales, accounting, HR, and reporting workflows.
+Good communication skills to interact with clients and internal teams, with the ability to document requirements clearly.
+Willingness to learn, strong problem-solving skills, and ability to work under guidance of senior developers.
 `
 }
 ]
