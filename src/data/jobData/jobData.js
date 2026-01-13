@@ -1246,7 +1246,7 @@ Willingness to learn, strong problem-solving skills, and ability to work under g
 },{
   id: 57,
   company: "Oracle",
-  role: "Student / Intern",
+  role: "Student Intern",
   hiringLink: "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/314122",
   shortdescription: "N/A",
   location: "India",
@@ -1266,7 +1266,7 @@ Qualifications: Career Level - IC0
 `
 },{
   id: 58,
-  company: "New Engen | United States of America, USA",
+  company: "New Engen",
   role: "QA Engineer Work From Home Job (full time)",
   hiringLink: "https://cuvette.tech/app/public/job/6964fb2559e9146663dc27ba?referralCode=4RIF3Q",
   shortdescription: "N/A",
@@ -1355,8 +1355,8 @@ Perks & Benefits:
 },{
   id: 60,
   company: "Gamtus",
-  role: "Fullstack / Frontend Engineer",
-  hiringLink: "https://wellfound.com/l/2BvTFx",
+  role: "Fullstack or Frontend Engineer",
+  hiringLink: "https://wellfound.com/jobs/3351266-fullstack-frontend-engineer?utm_campaign=startup_share&utm_content=startup_share_module&utm_medium=social&utm_term=gamtus",
   shortdescription: "N/A",
   location: "Remote",
   Stipend: "$1k – $5k",
@@ -1372,7 +1372,7 @@ Skills: React.js, Python/Django/Flask
   id: 61,
   company: "My Type",
   role: "Frontend App Design Intern",
-  hiringLink: "https://wellfound.com/l/2BWBZg",
+  hiringLink: "https://wellfound.com/jobs/3710664-frontend-app-design-intern-android-ios?utm_campaign=startup_share&utm_content=startup_share_module&utm_medium=social&utm_term=my-type",
   shortdescription: "N/A",
   location: "Remote ( Everywhere )",
   Stipend: "₹2.4L – ₹2.4L",
@@ -1402,8 +1402,8 @@ Firebase (Auth, Firestore)
 },{
   id: 62,
   company: "Abstrabit Technologies",
-  role: "Full Stack Engineer (0 to 2 Years)",
-  hiringLink: "https://wellfound.com/l/2Bxm9a",
+  role: "Full Stack Engineer",
+  hiringLink: "https://wellfound.com/jobs/3357882-full-stack-engineer-0-to-2-years?utm_campaign=startup_share&utm_content=startup_share_module&utm_medium=social&utm_term=abstrabit-technologies-3",
   shortdescription: "N/A",
   location: "Remote ( Everywhere )",
   Stipend: "₹4L – ₹5L",
