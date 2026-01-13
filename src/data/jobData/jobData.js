@@ -924,7 +924,7 @@ Pursuing or recently completed a degree in Computer Science, IT, or a related fi
   id: 46,
   company: "Inhouse digital",
   role: "Video Editor",
-  hiringLink: "N/A",
+  hiringLink: "https://unstop.com/o/GThFLOS?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
   shortdescription: "N/A",
   location: "Noida",
   Stipend: "₹ 3.6L - 4.8 LPA",

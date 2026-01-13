@@ -1,9 +1,12 @@
-import React from 'react'
+import {React, useEffect} from 'react'
 import { Link } from 'react-router-dom'
 import CompanyDetailMain from './CompanyDetailMain'
 import CompanyDetailSidebar from './CompanyDetailSidebar'
 
 const CompanyDetailPage = ({ selectedCompany, allCompanies }) => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="min-h-screen bg-[#FFFDFB] py-8 px-4">
   <div className="max-w-7xl mx-auto">
