@@ -1243,6 +1243,216 @@ Understanding of business processes such as sales, accounting, HR, and reporting
 Good communication skills to interact with clients and internal teams, with the ability to document requirements clearly.
 Willingness to learn, strong problem-solving skills, and ability to work under guidance of senior developers.
 `
+},{
+  id: 57,
+  company: "Oracle",
+  role: "Student / Intern",
+  hiringLink: "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/314122",
+  shortdescription: "N/A",
+  location: "India",
+  Stipend: "N/A",
+  fulldescription:`
+
+Job Identification: 314122
+Job Category: All Roles
+Role: Individual Contributor
+Job Type: Student/Intern
+Does this position require a security clearance?: No
+Years: 0 to 2+ years
+Additional Info: N/A
+Applicants are required to read, write, and speak the following languages: English
+This job code is utilized for the majority of our temporary hires.  The individual is performing hourly job duties as defined under the Fair Labor Standards Act.
+Qualifications: Career Level - IC0
+`
+},{
+  id: 58,
+  company: "New Engen | United States of America, USA",
+  role: "QA Engineer Work From Home Job (full time)",
+  hiringLink: "https://cuvette.tech/app/public/job/6964fb2559e9146663dc27ba?referralCode=4RIF3Q",
+  shortdescription: "N/A",
+  location: "remote",
+  Stipend: "₹ 25 LPA - 35 LPA",
+  fulldescription:`
+Is highly analytical and has worked with large data sets
+Has experience with a modern visualization tool like Google Data Studio, Tableau, Looker, etc. and integrating with BigQuery, AWS etc.
+Loves data and is proficient in Excel, Google Sheets, SQL, BigQuery, Data Studio, API integrations
+Has hands-on experience with cloud services, especially Google Cloud Platform
+Can work on building and maintaining a cloud based data infrastructure and pipeline
+Has experience with CRM platforms such as Hubspot and automating workflows
+Experience with QA report management tools - Jira, Confluence, Testrail.
+Experience with production monitoring and deployment tools – Splunk, Kibana, Jenkins.
+Basic knowledge in one or more scripting languages (e.g., shell, bash, Perl, Python, JavaScript, Ruby, etc.).
+Able to automate UI and API test cases using established tools and make configuration changes.
+Strong organizational skills to plan and delivery quality products on time.
+Experience in preparing and presenting test reports to stake holders.
+Is a Storyteller - Has exceptionally strong communications skills, both written and oral
+Is a strong self-starter and very proactive
+Is incredibly well-organized and detail oriented
+Has an entrepreneurial mind and takes pride in their contributions
+Is a problem solver and can think creatively about challenges
+Is able to prioritize a large scope of work and deliver priorities by deadlines
+Is collaborative and open to others’ ideas
+Conduct thorough testing of software, applications, or systems to identify bugs, defects, and areas for improvement.
+Develop and execute test plans, test cases, and test scripts to ensure comprehensive coverage of functional and non-functional requirements.
+Collaborate closely with development teams to understand product requirements and resolve issues in a timely manner.
+Document and track defects, providing clear and detailed reports to stakeholders.
+Participate in Agile or other project management methodologies, contributing to sprint planning, daily stand-ups, and retrospective meetings.
+Perform regression testing to ensure that previously identified issues have been addressed and that new changes do not introduce additional problems.
+Continuously assess and improve QA processes and practices to enhance efficiency, effectiveness, and overall product quality.
+Stay up-to-date with industry best practices, emerging technologies, and QA tools to incorporate into our testing processes.
+Communicate effectively with cross-functional teams, including developers, product managers, and customer support, to ensure a shared understanding of quality goals and priorities.
+Proactively identify opportunities for automation and implement automated testing solutions where applicable to streamline testing efforts.
+`
+},{
+  id: 59,
+  company: "Newton School",
+  role: "Teaching Assistant (TA) In-Office Job (full time)",
+  hiringLink: "https://cuvette.tech/app/public/job/6960e05059e9146663ce8aad?referralCode=4RIF3Q",
+  shortdescription: "N/A",
+  location: "Sonipat, India",
+  Stipend: "₹ 6LPA - 7.4LPA",
+  fulldescription:`
+ We are looking for enthusiastic and committed Assistant Professors to join our growing Computer Science department at our Sonipat campus. If you are passionate about teaching, excited about mentoring young minds, and eager to contribute to cutting-edge academic work, we would love to meet you. Whether your expertise lies in Mathematics, DSA, Web Development, AI/ML, Data Engineering, Backend/Frontend Development, DevOps, or System Design, you will play a key role in shaping strong, industry-ready talent. Your responsibilities will include delivering impactful lectures, developing relevant curriculum, guiding students through labs and real projects, and contributing to the academic growth of the department. 
+• Teach and engage students across a range of Computer Science subjects. 
+• Build and refine course content to keep it relevant and impactful. 
+• Lead lab sessions, support hands-on learning, and guide students through practical projects. 
+• Provide consistent support through mentoring, tutoring, and doubt-solving. 
+Academic Ownership & Innovation 
+• Take ownership of student learning outcomes and overall academic quality. 
+• Lead or contribute to research initiatives, innovation projects, and departmental development. 
+• Cultivate a supportive, collaborative, and inspiring learning environment. 
+Collaboration & Administration 
+• Work collaboratively with faculty, academic teams, and industry partners to enhance learning experiences. 
+• Actively participate in department events, academic committees, and institutional initiatives. 
+• Build strong relationships with students and colleagues to support a vibrant academic culture. 
+• PhD or M.Tech in Computer Science or a related field (PhD preferred). 
+• UGC-qualified candidates are strongly preferred. 
+• Prior experience in teaching, mentoring, or academic roles is a plus. 
+• Strong communication skills and a passion for teaching and student development. 
+• Familiarity with industry tools, frameworks, and technologies relevant to your area of  expertise. 
+Core CS & Mathematics 
+• Discrete Mathematics, Linear Algebra, Probability & Statistics 
+• Algorithms, Data Structures, Problem Solving 
+Software Development 
+• Frontend: HTML, CSS, JavaScript, React 
+• Backend: Node.js, Java, Python, Databases, System Design 
+• MERN / Full-Stack Development 
+AI & Data 
+• AI, Machine Learning, Deep Learning 
+• Data Engineering, Big Data Technologies 
+• Applied Data Science 
+Systems & DevOps 
+• Operating Systems, Distributed Systems 
+• Cloud Platforms (AWS, Azure, GCP) 
+• DevOps Tools (Docker, Kubernetes, CI/CD) 
+Perks & Benefits:
+• Competitive compensation and benefits 
+• Opportunities for research, publications, and academic collaborations 
+• Access to modern labs, tools, and state-of-the-art learning facilities 
+• Freedom to innovate and influence the next generation of technologists 
+• A warm, collaborative academic community that values growth and mentorship
+`
+},{
+  id: 60,
+  company: "Gamtus",
+  role: "Fullstack / Frontend Engineer",
+  hiringLink: "https://wellfound.com/l/2BvTFx",
+  shortdescription: "N/A",
+  location: "Remote",
+  Stipend: "$1k – $5k",
+  fulldescription:`
+Design, develop and optimize application GUI using html/css/JavaScript
+Build reusable code and libraries for future use
+Create and ensure the technical feasibility of UI/UX designs
+Optimize application for maximum speed, scalability and responsiveness
+Collaborate with other team members
+Skills: React.js, Python/Django/Flask
+`
+},{
+  id: 61,
+  company: "My Type",
+  role: "Frontend App Design Intern",
+  hiringLink: "https://wellfound.com/l/2BWBZg",
+  shortdescription: "N/A",
+  location: "Remote ( Everywhere )",
+  Stipend: "₹2.4L – ₹2.4L",
+  fulldescription:`
+Role Overview
+We’re looking for a Frontend App Design Intern to help build a fast, elegant cross-platform mobile app (Android & iOS) for an early-stage product. You’ll work closely with product and backend to quickly turn ideas into a usable PoC.
+
+What You’ll Do
+
+Design and develop mobile UI using Flutter or React Native
+Build immersive, responsive screens with smooth animations
+Integrate APIs and handle app state & navigation
+Rapidly iterate on UX based on feedback
+Tech Skills (PoC-focused)
+
+Flutter / React Native
+Dart / TypeScript / JavaScript
+REST APIs & JSON
+Basic state management (Provider / Riverpod / Redux)
+UI/UX tools: Figma
+Git & GitHub
+Bonus
+
+Experience with chat-based or conversational UIs
+Firebase (Auth, Firestore)
+`
+},{
+  id: 62,
+  company: "Abstrabit Technologies",
+  role: "Full Stack Engineer (0 to 2 Years)",
+  hiringLink: "https://wellfound.com/l/2Bxm9a",
+  shortdescription: "N/A",
+  location: "Remote ( Everywhere )",
+  Stipend: "₹4L – ₹5L",
+  fulldescription:`
+We are seeking a motivated Junior Full Stack Developer (0-2 years exp.) to help build and maintain our web applications. You'll work with Node.js/Python (backend), React/Next.js (frontend), and deploy on AWS/GCP/Azure.
+
+Responsibilities:
+
+Develop backend services (Node.js/Python) and frontend interfaces (React/Next.js).
+Collaborate with design and product teams to ship new features.
+Optimize application performance, quality, and responsiveness.
+Troubleshoot bugs and improve system efficiency.
+Deploy and manage applications on AWS.
+Learn and apply new technologies and best practices.
+Qualifications
+
+0-2 years of web development experience.
+Experience with Node.js OR Python.
+Experience with React OR Next.js.
+Solid grasp of HTML, CSS, JavaScript, REST APIs.
+Familiarity with databases (SQL/NoSQL) and Git.
+Basic understanding or eagerness to learn AWS.
+Strong problem-solving and communication skills.
+`
+},{
+  id: 63,
+  company: "Aruna SaaS Pvt Ltd ",
+  role: "Fullstack Developer Work",
+  hiringLink: "https://cuvette.tech/app/public/job/695ba2e759e9146663b9e601?referralCode=4RIF3Q",
+  location: "Jaipur, India",
+  Stipend: "₹ 5LPA - 7.8LPA",
+  fulldescription:`
+Requirements
+Core Proficiency: Advanced knowledge of JavaScript (ES6+) and TypeScript.
+Frontend: Mastery of React.js, including Hooks, Context API, and state management libraries like Redux or Zustand.
+Backend: Strong experience with Node.js and the Express.js framework for server-side logic.
+Database: Proven experience with NoSQL databases, specifically MongoDB and Mongoose ODM.
+Tooling: Familiarity with Git version control, Webpack/Vite, and package managers (NPM/Yarn).
+Responsibilities
+Full-Stack Development: Design and maintain responsive, high-performance user interfaces using React while building robust back-end logic with Node.js and Express.
+Database Management: Architecture and optimization of MongoDB schemas to ensure data integrity and system performance.
+API Design: Develop and integrate secure, RESTful APIs and handle third-party service integrations (e.g., payment gateways, social logins).
+Performance Optimization: Identify bottlenecks and optimize applications for maximum speed, scalability, and cross-browser compatibility.
+Code Quality & Testing: Write clean, maintainable, and well-documented code. Implement unit and integration testing (using tools like Jest or Mocha) to ensure reliability.
+Collaboration: Work closely with UI/UX designers to translate wireframes into code and collaborate with DevOps for seamless CI/CD deployment.
+Hiring Process
+1 Technical Interview
+1 Culture Interview
+`
 }
 ]
 
