@@ -1620,6 +1620,32 @@ A remote first culture that supports flexibility and autonomy in work delivery.
 Real world exposure to scalable systems in the FinTech domain.
 Performance linked Pre Placement Offer of up to INR 14 LPA annually.
 `
+},{
+  id: 69,
+  company: "IBM",
+  role: "Associate System Engineer",
+  hiringLink: "https://careers.ibm.com/en_US/careers/JobDetail?jobId=52240",
+  location: "Pan India",
+  Stipend: "N/A",
+  fulldescription:`
+Required education: Bachelor's Degree
+Preferred education: Bachelor's Degree
+Required technical and professional expertise
+Programming (preferably in Java, C++, Python, Node.js).
+Software Development Life Cycle Concepts
+No active backlogs.
+This is an entry level On-Campus hiring position, and the candidates must be in their final year of education and must obtain their degree before the start of employment with IBM.
+Year of Pass out 2026.
+BE / BTech Computer Science (all CS batches like CSE, AIML , DS , Cloud Computing, Big Data Analytics, CSBS , IOT , Robotics, AI , CyberSecurity, BlockChain to name a few) or Information Technology with 6 CGPA/60%.
+Fluent Communication skills (written and spoken).
+
+Preferred technical and professional experience
+Engineering Background, Problem Solving.
+
+Good interpersonal skills.
+
+Should be flexible to work from anywhere in India.
+`
 }
 ]
 
