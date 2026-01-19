@@ -1646,6 +1646,213 @@ Good interpersonal skills.
 
 Should be flexible to work from anywhere in India.
 `
+},{
+  id: 70,
+  company: "Global IT Consulting Company",
+  role: "Associate Application Developer",
+  hiringLink: "https://placement.acciojob.com/job-drive-details/?utm_source=cd351f04-8472-4c35-96fc-208a0bea830b&utm_medium=referral&jobDriveId=d91af48b-9ecd-43fd-b9b0-218a01ea2fa4&utm_campaign=copy_link",
+  location: "Bangalore (Onsite)",
+  Stipend: "₹11.1 LPA",
+  fulldescription:`
+Eligibility Criteria:
+
+Degree: BTech / BE
+
+Branch: Computer Science / CSE / Other CS related branch / IT
+
+Year of Graduation: 2024, 2025
+
+Gender: All
+
+Minimum 60% marks consistently throughout academic record
+
+Skills Required:
+
+DSA
+
+SQL
+
+OOPS
+
+Selection Process:
+
+Offline Assessment Test
+
+Conducted at AccioJob Skill Centers in Noida, Pune, Bangalore, Chennai & Hyderabad
+
+Candidates must visit one center
+
+AI-based Interview (after clearing cutoff)
+
+Profile Evaluation
+
+Coding Assignment
+
+Technical Interview 1
+
+Technical Interview 2
+
+Technical Interview 3
+`
+},{
+  id: 71,
+  company: "Xebo.ai",
+  role: "Software Engineer",
+  hiringLink: "https://placement.acciojob.com/job-drive-details/?utm_source=cd351f04-8472-4c35-96fc-208a0bea830b&utm_medium=referral&jobDriveId=6786ab16-a85a-491f-8f36-7a39990ba4f3&utm_campaign=copy_link",
+  location: "Noida (Onsite)",
+  Stipend: "₹6 – 7 Lakhs / year",
+  fulldescription:`
+Bond:
+
+1.5-year bond
+
+Penalty of ₹2,00,000 if bond is broken
+
+Eligibility Criteria:
+
+Degree: BTech / BE
+
+Branch: Computer Science / CSE / Other CS related branch / IT
+
+Year of Graduation: 2025, 2026
+
+Gender: All
+
+Skills Required:
+
+DSA
+
+SQL
+
+OOPS
+
+JavaScript
+
+React
+
+Selection Process:
+
+Offline Assessment Test
+
+Conducted at AccioJob Skill Center, Noida
+
+Resume Shortlist (Virtual)
+
+Technical Interview 1 (Virtual)
+
+Technical Interview 2 (Virtual)
+
+Technical Interview 3 (Virtual)
+
+HR Discussion (Virtual)
+`
+},{
+  id: 72,
+  company: "Celebal Technologies",
+  role: "Data Science Hiring Drive",
+  hiringLink: "https://celebaltech.com/about-us/resources/events/anaverse-2.0",
+  location: "Jaipur, Noida, Pune, Hyderabad",
+  Stipend: "N/A",
+  fulldescription:`
+Eligibility:
+
+Graduates (2023–2026)
+
+Experience: 0–6 months
+
+Aspiring Data Science professionals
+
+Early-career domain switchers
+
+Skills Evaluated:
+
+Python Programming
+
+SQL
+
+Machine Learning fundamentals
+
+Model evaluation
+
+Deep Learning & Computer Vision
+
+Data Science lifecycle
+
+Communication & problem solving
+
+Selection Process:
+
+Registration
+
+Resume Shortlisting
+
+Online Kaggle Assessment (Python, SQL, ML)
+
+Technical Assessment
+
+Technical Interview
+
+HR Interview & Offer Communication
+
+What You Get:
+
+Career in Data & AI
+
+Enterprise data workflows
+
+Global client exposure
+
+Mentorship
+
+Competitive compensation
+`
+},{
+  id: 73,
+  company: "Sibros Technologies",
+  role: "Software Engineer Intern",
+  hiringLink: "https://ats.rippling.com/en-GB/sibros-technologies/jobs/0853162e-f1f4-4107-abdc-ad101ccff8ff",
+  location: "Pune, India",
+  Stipend: "N/A",
+  fulldescription:`
+About the Role:
+Intern role in Software Solution Engineering team working on Sibros’ Deep Connected Platform.
+
+Responsibilities:
+
+Design, develop, and test backend & frontend software
+
+Work with structured & unstructured data
+
+Build reports, dashboards, and features
+
+Support cloud-based services and deployments
+
+Debug issues and improve system performance
+
+Document designs and learnings
+
+Collaborate in design reviews and stand-ups
+
+Eligibility / Knowledge Required:
+
+Degree in Computer Science / Electronics / Data Science / IT
+
+Programming knowledge: Go / Python / Java / C++ / JavaScript
+
+Databases: SQL / NoSQL
+
+Git or version control
+
+Linux fundamentals (preferred)
+
+Strong understanding of DSA
+
+Exposure to AWS / GCP
+
+APIs, microservices, data pipelines
+
+Basic AI, LLMs, ML concepts
+`
 }
 ]
 
