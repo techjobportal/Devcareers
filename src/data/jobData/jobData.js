@@ -1853,6 +1853,50 @@ APIs, microservices, data pipelines
 
 Basic AI, LLMs, ML concepts
 `
+},{
+  id: 74,
+  company: "Inspiron labs",
+  role: "MERN Stack Developer",
+  hiringLink: "https://inspironlabs.com/opportunities/mern-stack-developer/",
+  location: "Banglore, Karnataka",
+  Stipend: "N/A",
+  fulldescription:`
+They are looking for a skilled and motivated MERN Stack Developer to join our growing team. In this role, you will contribute to the development of scalable, high-performance web applications and actively support the entire product development lifecycle, from concept and design to deployment and maintenance.
+
+Job Responsibilities-
+
+• Develop responsive web interfaces using React.js.
+• Create and manage APIs using Node.js and Express.js
+• Design and maintain MongoDB schemas and queries.
+• Collaborate with cross-functional teams to define and deliver new features.
+• Write clean, scalable, and efficient code with proper documentation.
+• • Conduct debugging, unit testing, and code reviews.
+
+
+Required Skills 
+
+• Solid understanding of JavaScript, HTML, CSS.
+• Basic knowledge of MongoDB, Express.js, React.js, Node.js.
+• Familiarity with RESTful APIs and asynchronous request handling.
+• Exposure to version control tools like Git.
+• Good problem-solving and debugging skills.
+• • Ability to work in a collaborative environment.
+
+Preferred Skills
+
+• Certification in Android development from a reputed institute.
+• Minimum 6-month internship in Android development.
+
+Qualifications 
+
+• Freshers or candidates with 0–1 year of experience can apply.
+• Bachelor’s degree in Computer Science or related field.
+
+
+Job Category: MERN Stack Developer
+Job Type: Full Time
+Job Location: BangaloreKA
+`
 }
 ]
 
