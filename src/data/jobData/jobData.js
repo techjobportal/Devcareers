@@ -2044,8 +2044,8 @@ Note: This is an unpaid internship position. However, you will gain valuable han
 `
 },{
   id: 79,
-  company: "Flutter Developer Internship",
-  role: "Go India Advisors",
+  company: "Go India Advisors",
+  role: "Flutter Developer Internship",
   hiringLink: "https://unstop.com/o/StwkyoI?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
   location: "Work From Home",
   Stipend: " ₹15,000 to ₹20,000 per month",
