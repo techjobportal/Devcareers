@@ -2237,6 +2237,187 @@ Team Cloud: GDrive, OneDrive, GKeep
 Team Communication: Slack, Microsoft Teams
 Team Meeting: GMeet, Skype
 `
+},{
+  id: 84,
+  company: "Toddle",
+  role: "Intern Frontend",
+  hiringLink: "https://toddle.keka.com/careers/jobdetails/6719",
+  location: " Bangalore, Remote",
+  Stipend: "N/A",
+  fulldescription:`
+Here’s what you’ll be doing
+We are looking for a passionate and skilled Frontend developer, one who partners with us in creating beautiful products for teachers, students and parents alike. As a Frontend Intern, you will play a major role in designing, developing and deploying high-quality web platforms. In this multifaceted role, you will get the opportunity to work along curriculum experts, teachers, and students, and user-test the product in real school settings.
+
+Must have Skills:
+Languages & frameworks: ES6, HTML5/CSS3, React, Redux
+Tooling: Git Basics, Chrome Dev Tools
+
+Good to have:
+Working knowledge of GraphQL, Apollo Server/Client
+
+Is this someone that looks like you?
+Education: Currently pursuing B.E/B.Tech in CS or IT, preferably in the 7th or 8th semester.
+The internship duration is one year
+Soft skills: Having a bias towards action, a good sense of design, empathy, and good communication skills
+We deeply value building the right culture at Toddle, and these are a few things that we look for in each hire – Coach-ability, Curiosity, Ownership, Hustle and Humility
+
+Excited about the role?
+Here are some more benefits:
+
+1) Flexibility at work
+Work from anywhere – home, co-working space, cafe or even the hills
+Block “no-meeting hours” to enable uninterrupted focused work
+
+2) Exposure to diverse learning opportunities
+Work across different projects & teams to develop skills outside of your core expertise
+Access to a small budget towards learning (e.g. books, online courses, substacks)
+
+3) Industry best leave policy
+We trust you fully on your commitment to our mission and your judgement on planning your time and taking leaves:
+No cap on the number of sick or casual leaves
+Special paid leaves for childbirth, wedding etc.
+
+4) No bell curve performance evaluations
+We put in a lot of work to hire the best, and therefore we don’t expect anyone to deliver less than the best!
+
+5) And yes, a super fun and diverse group of folks to collaborate and grow with
+
+Still with us? Here’s the process:
+1) Shortlisting:
+Complete the form on this page
+We’ll check out your application and assess it for a fit
+You will hear back from us within 2-3 days of the submission if shortlisted
+2) Once shortlisted, we usually do about 2-3 rounds of interviews, a written assignment, and deep reference checks
+3) We value everyone’s time hence we make it a point to communicate proactively at all stages of your application. You can always reach out to us for any questions
+`
+},{
+  id: 85,
+  company: "Toddle",
+  role: "Intern Backend",
+  hiringLink: "https://toddle.keka.com/careers/jobdetails/21169",
+  location: " India, Remote",
+  Stipend: "N/A",
+  fulldescription:`
+Here’s what you’ll be doing
+We are looking for a passionate and skilled Frontend developer, one who partners with us in creating beautiful products for teachers, students and parents alike. As a Frontend Intern, you will play a major role in designing, developing and deploying high-quality web platforms. In this multifaceted role, you will get the opportunity to work along curriculum experts, teachers, and students, and user-test the product in real school settings.
+
+Must have Skills:
+Frameworks & Technologies: Node.js, Express
+Database: SQL (MySQL or PostgreSQL)
+Tools: Git basics, Scripting basics
+
+Is this someone that looks like you?
+Education: Currently pursuing B.E/B.Tech in CS or IT, preferably in the 7th or 8th semester.
+The internship duration is one year
+Soft skills: Having a bias towards action, a good sense of design, empathy, and good communication skills
+We deeply value building the right culture at Toddle, and these are a few things that we look for in each hire – Coach-ability, Curiosity, Ownership, Hustle and Humility
+
+Excited about the role?
+Here are some more benefits:
+
+1) Flexibility at work
+Work from anywhere – home, co-working space, cafe or even the hills
+Block “no-meeting hours” to enable uninterrupted focused work
+
+2) Exposure to diverse learning opportunities
+Work across different projects & teams to develop skills outside of your core expertise
+Access to a small budget towards learning (e.g. books, online courses, substacks)
+
+3) Industry best leave policy
+We trust you fully on your commitment to our mission and your judgement on planning your time and taking leaves:
+No cap on the number of sick or casual leaves
+Special paid leaves for childbirth, wedding etc.
+
+4) No bell curve performance evaluations
+We put in a lot of work to hire the best, and therefore we don’t expect anyone to deliver less than the best!
+
+5) And yes, a super fun and diverse group of folks to collaborate and grow with
+
+Still with us? Here’s the process:
+1) Shortlisting:
+Complete the form on this page
+We’ll check out your application and assess it for a fit
+You will hear back from us within 2-3 days of the submission if shortlisted
+2) Once shortlisted, we usually do about 2-3 rounds of interviews, a written assignment, and deep reference checks
+3) We value everyone’s time hence we make it a point to communicate proactively at all stages of your application. You can always reach out to us for any questions
+`
+},{
+  id: 86,
+  company: "Toddle",
+  role: "Associate Software Engineer, Frontend",
+  hiringLink: "https://toddle.keka.com/careers/jobdetails/38940",
+  location: "India, Remote",
+  Stipend: "N/A",
+  fulldescription:`
+Here’s what you’ll be doing
+We are looking for a passionate and motivated product engineer who partners with us to build intuitive, scalable, and delightful user experiences for teachers, students, and parents.
+
+As a product Engineer, you will contribute to designing, developing, and deploying high-quality product. You will collaborate closely with engineers, product managers, designers, educators, and gain exposure to real-world usage in schools..
+
+This role offers strong mentorship, hands-on ownership, and continuous growth in a fast-growing SaaS environment.
+
+What you’ll achieve in your first 3 months
+Understand the codebase, architecture, and core product workflows
+Build strong fundamentals in React, state management, CSS and gain a basic understanding of Apollo
+Start contributing to feature development and production fixes with mentor support
+
+What you’ll achieve in your first 6 months
+Independently deliver major features by writing clean, modular, and optimized code
+Become comfortable with Chrome DevTools and profiling tools like react profile, memory profiling, and performance tools
+Participate in code reviews and collaborate cross-functionally
+
+What you’ll achieve in your first 12 months
+Own modules end-to-end, coordinating closely with Product and Support teams through scoping, design review, development, release, and post-release support
+Get the opportunity to work on performance and frontend infra projects
+Contribute to onboarding, technical knowledge sharing, and continuous improvement of engineering processes
+
+Must have Skills:
+Languages & Frameworks - JavaScript (ES6+) , HTML5 / CSS3, React & Redux
+Tools & Platforms - Git (basics) , Chrome DevTools, GitHub Copilot or other AI-assisted development tools
+Strong problem-solving skills and eagerness to learn
+Ability to write clean, readable, and maintainable code
+
+Good to have:
+Working knowledge of Apollo client and GraphQL
+Exposure to Node.js, Express, and SQL
+Familiarity with frontend build tools such as Webpack
+Product mindset with empathy for end users
+Clear communication skills and ability to collaborate cross-functionally
+
+Is this someone that looks like you?
+Education: B.E/B.Tech degree
+Soft skills: Having a bias towards action, a good sense of design, empathy, and good communication skills
+We deeply value building the right culture at Toddle, and these are a few things that we look for in each hire – Coach-ability, Curiosity, Ownership, Hustle and Humility
+
+Excited about the role?
+Here are some more benefits:
+
+1) Flexibility at work
+Work from anywhere – home, co-working space, cafe or even the hills
+Block “no-meeting hours” to enable uninterrupted focused work
+
+2) Exposure to diverse learning opportunities
+Work across different projects & teams to develop skills outside of your core expertise
+Access to a small budget towards learning (e.g. books, online courses, substacks)
+
+3) Industry best leave policy
+We trust you fully on your commitment to our mission and your judgement on planning your time and taking leaves:
+No cap on the number of sick or casual leaves
+Special paid leaves for childbirth, wedding etc.
+
+4) No bell curve performance evaluations
+We put in a lot of work to hire the best, and therefore we don’t expect anyone to deliver less than the best!
+
+5) And yes, a super fun and diverse group of folks to collaborate and grow with
+
+Still with us? Here’s the process:
+1) Shortlisting:
+Complete the form on this page
+We’ll check out your application and assess it for a fit
+You will hear back from us within 2-3 days of the submission if shortlisted
+2) Once shortlisted, we usually do about 2-3 rounds of interviews, a written assignment, and deep reference checks
+3) We value everyone’s time hence we make it a point to communicate proactively at all stages of your application. You can always reach out to us for any questions
+`
 }
 ]
 
