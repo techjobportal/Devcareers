@@ -2418,6 +2418,115 @@ You will hear back from us within 2-3 days of the submission if shortlisted
 2) Once shortlisted, we usually do about 2-3 rounds of interviews, a written assignment, and deep reference checks
 3) We value everyone’s time hence we make it a point to communicate proactively at all stages of your application. You can always reach out to us for any questions
 `
+},{
+  id: 87,
+  company: "Infosys",
+  role: "SP & DSE 2024 Batch Hiring",
+  hiringLink: "https://surveys.infosysapps.com/r/a/spoffcampusfeb2026",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+2024 Batch – ACTIVE HIRING (SP & DSE)
+
+Job Title:
+
+Specialist Programmer (SP)
+
+Digital Specialist Engineer (DSE)
+
+Job Type: Full-time | Permanent
+Hiring Status: Immediate / Active Hiring
+
+Job Description:
+Infosys is actively hiring 2024 pass-out graduates for high-end technical roles. Selected candidates will work on core product development, advanced programming, system design, cloud platforms, and digital transformation projects for global clients.
+Package:
+
+Specialist Programmer (SP): Up to ₹21 LPA (top tier), ₹10–16 LPA (other levels)
+
+Digital Specialist Engineer (DSE): ~₹6.25 LPA + bonuses
+
+Eligibility:
+
+2024 graduates (BE / BTech / MCA / MSc – as per Infosys norms)
+
+Strong coding & problem-solving skills
+
+📌 This is real hiring, not just registration.
+`
+},{
+  id: 88,
+  company: "Infosys",
+  role: "2025 Batch Registration ONLY",
+  hiringLink: "https://surveys.infosysapps.com/r/a/ENGoffcampusregistrationjan2026",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Hiring Status: Registration for upcoming off-campus drives
+Job Description:
+Infosys is collecting applications from 2025 pass-out candidates to build a talent pool for upcoming hiring drives in 2026. Shortlisted candidates will be contacted later for online assessments and interview rounds.
+
+Roles & Responsibilities (Expected):
+
+Software development & testing
+
+Application support and system integration
+
+Working on enterprise IT solutions
+
+Training followed by project allocation
+
+Package (Expected):
+
+Around ₹3.6 – ₹4.5 LPA (standard System Engineer range)
+
+Eligibility:
+
+2025 graduates
+
+Basic programming knowledge
+
+Willingness to join when hiring starts
+`
+},{
+  id: 89,
+  company: "Infosys",
+  role: "2026 Batch Registration ONLY",
+  hiringLink: "https://surveys.infosysapps.com/r/a/ENGoffcampusregistrationjan2026",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Job Title:
+
+Graduate Engineer Trainee (Future Role)
+
+Job Type: Full-time (future)
+Hiring Status: Early registration / profile creation
+
+Job Description:
+Infosys has opened early registration for 2026 batch students. This is not a hiring process but a way to pre-register your profile so Infosys can contact you once official recruitment begins.
+
+Important Points:
+
+No exam or interview now
+
+No evaluation or rejection
+
+No cooling period impact
+
+Roles & Responsibilities:
+
+Will be defined when actual hiring starts
+
+Typically includes training + project work
+
+Eligibility:
+
+2026 graduating students
+
+Any relevant tech background
+
+📌 Register calmly — your actual chance comes later.
+`
 }
 ]
 
