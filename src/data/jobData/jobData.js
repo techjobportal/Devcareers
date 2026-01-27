@@ -2570,6 +2570,62 @@ Grow your technical and professional skills through structured development oppor
 Be part of a mission-driven company transforming global access to education.
 
 `
+},{
+  id: 91,
+  company: "Intuit",
+  role: "Software Engineer I",
+  hiringLink: "https://jobs.intuit.com/job/-/-/27595/90402464720?cid=job_li_click_in_active-fy20_cn_text_job_intuit-talent",
+  location: "Bangalore, India",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities
+
+Frontend Engineering:
+
+Experience developing scalable, responsive, and dynamic web-based applications
+Familiarity with modern frontend tools and frameworks such as React, AngularJS, or Vue.js
+Knowledge of HTML, CSS, and JavaScript standards
+Strong ability to collaborate with designers, UX specialists, and backend engineers
+Backend Engineering:
+
+Experience developing web applications using server-side languages, such as Java, Python, or Node.js.
+Familiarity with database technologies such as MySQL, PostgreSQL, or MongoDB
+Understanding of RESTful API design principles and ability to work with API integrations
+Experience with server frameworks such as Express, Spring MVC or Django
+Fullstack Engineering:
+
+Familiarity with both frontend and backend development
+Ability to work effectively with developers and designers, discussing application and API architectures
+Understanding of Agile methodologies and ability to work with Scrum teams
+Familiarity with tools such as Git, Jenkins, or Travis
+Mobile Engineering:
+
+Experience developing applications for one or more platforms such as Android and iOS
+Familiarity with mobile application development frameworks such as React Native or Flutter
+Understanding of development tools such as XCode, Android Studio and SDK languages such as Objective-C, Swift or Java
+Ability to work with designers and backend engineers to integrate mobile applications with cloud-based APIs
+Across all tech stacks:
+
+Contribute to our core products and services, as well as systems that power critical engineering operations.
+See your work launched and help solve meaningful problems for customers.
+Learn and apply proven best practices in designing, building, and supporting software projects.
+Receive hands-on guidance, detailed feedback, and mentorship from experienced team members.
+Collaborate closely with peers across disciplines and build strong, supportive working relationships.
+
+Qualifications
+
+Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, a related technical field, or equivalent practical experience.
+Foundational understanding of Agile development, object-oriented design, and programming principles.
+Coursework, internships, personal projects, or academic experience with one or more programming languages (e.g., Java, Python, JavaScript, C++, etc.).
+Basic knowledge of front-end web technologies (e.g., HTML, CSS, JavaScript) and familiarity with frameworks or tools is a plus.
+Strong written, verbal, and collaboration skills with the ability to work effectively in a team environment.
+Awareness of AI concepts and a basic understanding of capabilities like Generative AI.
+Willingness to learn and adapt to new priorities, tools, and technologies in a fast-paced, dynamic environment.
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.
+`
 }
 ]
 
