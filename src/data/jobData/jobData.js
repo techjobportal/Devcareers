@@ -2761,6 +2761,45 @@ Skills and Qualifications:
 
 Must Be a Graduated 
 `
+},{
+  id: 96,
+  company: "Mass Hiring Software Engineer",
+  role: "Exceller Program",
+  hiringLink: "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/8ef54342-9e29-4069-a055-d9cbba6b30f1",
+  location: "PAN India",
+  Stipend: "400,000.00 per Annum",
+  fulldescription:`
+Job Description
+ 
+
+**Candidates must have an active DigiLocker account and active mobile number linked with their Aadhar Number while applying for this job.**Refer to attached pdf for a detailed walk-through of the process. 
+
+Capgemini is hiring the best technical graduates emerging out of top engineering colleges to join us and become an integral part of our workforce. 
+
+As a part of Capgemini Excellerprogram, you will get to work with diverse teams, cross-functional projects & join a collaborative network of peers and mentors; working together for sustainable solutions for customers. 
+
+If being a part of & thriving in the ever-changing landscape of today’s technology world excites you, Capgemini is the place to be. 
+
+Key Responsibilities 
+
+Contribute to a global business and technology teams responsible for developing and delivering innovative technology offerings and solutions 
+Designs, develops, modifies and helps in maintaining the basic modules based on functional and system requirements 
+Good exposure to configuration management, testing, deployment researching and utilizing new and emerging technologies to meet customer requirements 
+Strong programming skills, as well as the ability to review complex code bases written by others 
+Strong architecture and design background and keen business sense 
+Desired Competencies 
+
+Communication: You should possess strong communication skills for effective interactions with project partners. 
+Collaboration: You should demonstrate good interpersonal, and collaboration skills 
+Flexibility: You should be willing to skill-up in multiple technologies and work in any Capgemini city location and travel as required. 
+Initiative: You should be able to work independently, take initiative and manage a variety of activities concurrently 
+Other Skills: Good analytical and problem-solving skill 
+Disclaimer: -
+
+By agreeing to participate in the campus recruitment drive you are agreeing to accept the prescribed process of this recruitment and shortlisting or selection is at sole discretion of Capgemini. This participation and registration does not guarantee a call/offer letter, and the same will be based on the positions available across different cities in India among others. 
+
+This position is open only for Indian Citizens.
+`
 }
 ]
 
