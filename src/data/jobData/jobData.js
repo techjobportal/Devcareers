@@ -2800,6 +2800,42 @@ By agreeing to participate in the campus recruitment drive you are agreeing to a
 
 This position is open only for Indian Citizens.
 `
+},{
+  id: 97,
+  company: "Swiggy",
+  role: "Associate Software Development Engineer",
+  hiringLink: "https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology=&location%3DBangalore=&search%3Dtitle:Associate%20Software%20Development%20Engineer%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI0MDgzLCJyZXF1ZXN0ZXIiOnsiaWQiOiIiLCJjb2RlIjoiIiwibmFtZSI6IiJ9LCJwYWdlIjoiY2FyZWVycyIsImJ1ZmlsdGVyIjotMSwiY3VzdG9tRmllbGRzIjp7ImNhcmVlcl9wYWdlX2NhdGVnb3J5IjoiVGVjaG5vbG9neSIsImxvY2F0aW9uIjoiQmFuZ2Fsb3JlIiwic2VhcmNoIjoidGl0bGU6QXNzb2NpYXRlIFNvZnR3YXJlIERldmVsb3BtZW50IEVuZ2luZWVyIn19=",
+  location: "Bangalore and Hybrid ",
+  Stipend: "10 LPA",
+  fulldescription:`
+Position Overview: 
+
+We are looking for highly motivated individuals who can join our engineering team as aSDEs. As an aSDE, you will have the opportunity to work alongside our experienced engineers and contribute to the design, development, and implementation of cutting-edge backend systems. You will gain hands-on experience with technologies like Java, Go, Elastic Cache, Elasticsearch, Kafka, SQS, DynamoDB, and other innovative tools.
+
+
+
+What will you get to do here?
+
+Collaborate with cross-functional teams to design, develop, and maintain scalable backend systems and services.
+Write high-quality, maintainable code in Java and Go programming languages.
+Utilize technologies such as Elasticache, Elasticsearch, Kafka, SQS, DynamoDB, and more to build efficient and reliable backend solutions.
+Participate in code reviews to ensure code quality and adherence to best practices.
+Contribute to the architecture and design discussions for new features and improvements.
+Troubleshoot and debug issues, optimizing performance and addressing scalability challenges.
+
+
+What qualities are we looking for?
+
+B.Tech, 2024/2025 graduates with academic knowledge in Computer Science, Software Engineering, or a related field.
+Strong programming skills in Java and/or Go
+Familiarity with backend development concepts and technologies.
+Basic understanding of databases and data modeling principles.
+Enthusiasm to learn and work with cutting-edge technologies like Elastic Cache, Elasticsearch, Kafka, SQS, and DynamoDB.
+Excellent problem-solving and communication skills.
+Ability to work well in a collaborative team environment.
+Familiarity with the basics of cloud platforms such as AWS, Azure, or GCP and version control systems (e.g Git)
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law.
+`
 }
 ]
 
