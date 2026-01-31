@@ -2836,6 +2836,136 @@ Ability to work well in a collaborative team environment.
 Familiarity with the basics of cloud platforms such as AWS, Azure, or GCP and version control systems (e.g Git)
 We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law.
 `
+},{
+  id: 98,
+  company: "Cognizant",
+  role: "Analyst Trainee",
+  hiringLink: "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/65ac431a-2d60-417a-b1f6-6b0f455a1d33",
+  location: "PAN India",
+  Stipend: "N/A",
+  fulldescription:`
+Please note: Role will be aligned to Multicloud or Digital Workplace Services or Integrated Smart Operations or IT practice based on candidate’s credentials & performance in the hiring process. 
+
+JOB DESCRIPTION FOR ANALYST TRAINEE ALIGNED TO IT & INTEGRATED SMART OPERATIONS: 
+
+Job description: 
+
+You will be responsible for performing database queries, CRUD operations, and writing stored procedures. You will prepare and execute tests, analyze and resolve service tickets, and demonstrate proficiency in IT Service Management and Data Analytics tools, with a strong drive for innovation.
+
+Describe relationships between tables and write queries to retrieve data from database.
+Perform CRUD operations and write stored procedures for a given Low-Level Design.
+Prepare test cases / scripts / data and execute manual / automated tests.
+Analyze root cause and fix service tickets as per standard operating procedures.
+Demonstrate proficiency in tools related to IT Service Management and Data Analytics.
+Possess a strong drive to innovate & experiment in projects.
+Skills required
+
+Good time management skills
+Good written & verbal communication skills
+Teamwork & collaboration
+Problem solving skills
+Strong analytical skills
+Critical thinking
+Eligibility criteria:
+
+Candidates from 2024 or 2025 graduated batch of 3-year UG degree in BCA, BSc - Computer Science, Information Technology (allied streams), Mathematics, Physics, Chemistry, Statistics & Electronics with minimum 60% in academics. (rounding off 59.9% is not allowed).
+Candidates should possess consistent academic record with minimum 60% in X, XII, Diploma, UG (rounding off 59.9% is not allowed).
+At the time of joining, all recruits need to have a minimum 60% aggregate in the 3-year UG degree with no arrears.
+Appropriate CGPA to % conversion to be considered as per university norms.
+Flexibility to work from any Cognizant office location in a given shift timing and any technology is mandatory.
+Open to Indian nationals / OCIs who are currently residing in India.
+ 
+
+JOB DESCRIPTION FOR ANALYST TRAINEE ALIGNED TO MULTICLOUD: 
+
+Job description:
+
+You will maintain and administer computing environments, monitor production servers, and handle incident management. Additionally, you will provide support for Windows, Network, Database, Storage, Messaging, Collaboration, and Cloud environments. 
+
+Key responsibilities:
+
+Perform activities based on defined guidelines in SOPs/Runbooks with an understanding of business impact. 
+Adhere to customer security and compliance requirements. 
+Follow customer communication etiquettes. 
+Ensure stated productivity requirements for the engagement. 
+Contribute to continuous service improvement plans (CSI). 
+Participate proactively in knowledge-sharing sessions. 
+Act as a buddy for new hires. 
+Adhere to organizational policies and processes (including Cognizant’s security policies, LP, timelines, etc.). 
+Role expectations:
+
+Associate should be client-focused and able to work with users from different communities and cultures across the globe. 
+Associate should be willing to work in a 24/7 environment and be open to relocating to any part of India based on project requirements. 
+Support available from Cognizant (post joining as Full Time Employee):
+
+Night shift allowance will be paid by the project. 
+Cabs will be provided for pick-up and drop-off, ensuring safety and comfort. 
+Timely rewards and recognition will be given to top performers. 
+Eligibility Criteria:
+
+Candidates from 2024 or 2025 batch of any 3-year UG degree (For e.g. BCA, BSc, BA, BBA, BCom, Bvoc, BMS, etc) with minimum 50% in academics. (rounding off 49.9% is not allowed).
+Candidates with standing arrears are NOT eligible. 
+Flexibility to work from any Cognizant office location in a given shift timing and any technology is mandatory. 
+Open to Indian nationals / OCIs who are currently residing in India. 
+JOB DESCRIPTION FOR ANALYST TRAINEE ALIGNED TO DIGITAL WORKPLACE SERVICES: 
+
+ Job description:
+
+You will be responsible for providing technical support to our clients, including troubleshooting and resolving IT issues and ensuring the smooth functioning of their computer systems and IT services. 
+
+Key responsibilities:
+
+Provide first-line technical support and assistance to end-users, addressing their IT-related issues and inquiries. Log and track all support tickets, ensuring accurate documentation and timely resolution of problems. 
+Troubleshoot hardware and software problems, performing diagnosis and resolving technical issues to minimize downtime. Collaborate with other IT teams to escalate complex issues and ensure prompt resolution. Maintain knowledge base articles and documentation to enhance self-service options and facilitate efficient problem-solving. 
+Role expectations:
+
+Associate should be client focused and able to work with users from different communities and cultures across the globe. 
+Ability to have flawless communication (verbal and written) with our clients and possess sound technical knowledge. 
+Work in shifts and work from office. 
+Support available from Cognizant (post joining as Full Time Employee):
+
+Night shift allowance will be paid by the project. 
+Cognizant provide cabs for pick-up and drop, ensuring safety and comfort. 
+Timely rewards and recognition for top performers. 
+Eligibility Criteria:
+
+Candidates from 2024 or 2025 batch of any 3-year UG degree (For e.g. BCA, BSc, BA, BBA, BCom, Bvoc, BMS, etc) with minimum 50% in academics. (rounding off 49.9% is not allowed).
+Students withstanding arrears are NOT eligible. 
+Flexibility to work from any Cognizant office location in a given shift timing and any technology is mandatory. 
+Open to Indian nationals / OCIs who are currently residing in India.
+Information required: 
+
+Mandatory documents for registration: 
+
+Resume (maximum of 2 pages) with a high-resolution passport size photograph. Please note that the photograph should be clicked in a light background and both the ears of the candidates must be visible. 
+Mandatory documents for interview:
+
+All academic documents including the college ID card (if available) and school/college UG mark sheets, UG degree certificates.
+Mandatory documents for onboarding:
+
+The final Cognizant onboarding would be subject to satisfactory background verification. 
+
+PAN card - It is a mandatory requirement for onboarding. Please ensure that your first name, last name, father's name, and other details are accurate. Please note that background verification will fail if the last name is not updated or if the PAN card name does not match the registered name. 
+Voter Id card / Passport (any one) will be mandatory to verify citizenship. 
+Please note
+
+You will get the communications only to the registered mail ID in Superset. It must be your personal mail ID and shall be considered as the primary email ID. This email ID should not be changed at any point during hiring process or until Full Time Employment (FTE) onboarding. 
+
+If selected, you will join as a fresher as no prior work experience will be considered. 
+
+Candidates who have attended assessments or interview in the last 6 months kindly do not apply.
+
+ 
+
+Disclaimer: 
+
+In case of any queries related to hiring, interview schedules, or offer communication, kindly reach out to us at Campus2Cognizant.
+Cognizant does not entertain payments of any kind from candidates or vendors for employment. Requests for such payments should be promptly reported to GenCHRComplianceIND@cognizant.com   
+If you encounter anyone who claims to offer jobs at Cognizant in return for any benefit (monetary or non-monetary), please do not entertain them. Please be informed that Cognizant shall not be held responsible for any such instances or payments you make 
+We recommend that you do not respond to spam emails/ messages you do not trust; never disclose your personal or financial details to anyone you do not know. If any such mails purporting to come from Cognizant are received, we advise you to contact us at GenCHRComplianceIND@cognizant.com  
+Cognizant takes its hiring practices seriously and appreciates you keeping the Company informed of any individuals posing as Cognizant employees who make false job offers using Cognizant’s name. We remind you that while recruiting employees, Cognizant will only communicate with you through authentic Cognizant email addresses and Cognizant will never extend any job offers to anyone based on an online application without first conducting an in-person, video, or telephone interview through verified encrypted channels. If any such mails purporting to come from Cognizant are received, we advise you to contact us at GenCHRComplianceIND@cognizant.com  
+To ascertain that you are receiving a genuine call from Cognizant, please ensure to collect the recruiter’s details (full name; official email id, employee ID & mobile number) during the call
+`
 }
 ]
 
