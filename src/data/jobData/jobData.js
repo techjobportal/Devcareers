@@ -3017,7 +3017,150 @@ Stipend - 15k per month
 
 CTC Offered : 7- 9 LPA 
 `
-} 
+},{
+  id: 100,
+  company: "SHL",
+  role: "Software Engineer",
+  hiringLink: "https://unstop.com/o/iUIcpMy?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Gurgaon",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidate :
+
+Follow Agile software development methodology to gather requirements, design, and develop.
+Work closely with development team, product team and QA Team to meet the requirements.
+Follow architecture concept and development standards set by the Architecture practices.
+Assist peers in developing technical and professional competency.
+Collaborate with internal teams and vendors to fix and improve products.
+Build, own and assist scalable, global and extremely high-performance systems.
+Requirements :
+
+Significant knowledge of Software Product Development Cycle & Product Delivery Cycle.
+Hands- on experience in PHP/Golang/Java, Angular/React, JQuery
+Experience in implementing AWS services.
+Good understanding with mySQL/SQL Server
+Strong logical skills
+Experience in Cloud system architecture.
+Experience in agile work environment
+Open to explore and work in new languages.
+`
+},{
+  id: 101,
+  company: "Harmonic",
+  role: "Associate QA Engineer",
+  hiringLink: "https://unstop.com/o/S1bT4xy?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidate:
+
+ Test multidisciplinary Embedded Systems (SW/HW)
+ Responsible for features end-to-end functional testing.
+ Execute tests to verify functional behavior of the products and to ensure their quality in an Agile environment.
+ You will be in contact with device under test (DUT) development & QA engineers.
+Requirements:       
+ Btech/BE in Electronics and communication (2024 or 2025 passouts only) with no backlogs
+ Min 70% score during completion of the course
+ Knowledge in layer 3 networking protocols
+ Linux Knowledge – Advantage.
+ Script tools/languages (Perl, Python, Bash, etc.) - advantage
+ High level of interpersonal skills. Ability to communicate effectively with different groups.
+ Fluent English (writing and speaking)
+`
+},{
+  id: 102,
+  company: "CampusTrack",
+  role: "Full Stack Web Development MERN Instructor",
+  hiringLink: "https://unstop.com/o/su29d8W?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Hyderabad",
+  Stipend: "₹ 2.5 LPA - 12.5 LPA",
+  fulldescription:`
+Responsibilities
+Develop and deliver engaging, outcome-focused course content
+
+Facilitate learning through structured practice modules and assessments
+
+Design structured course content aligned with academic and industry standards
+Deliver engaging live and recorded sessions with clear, structured explanations
+
+Collaborate with faculty, mentors, and academic teams
+
+Drive student engagement and continuous improvement initiatives
+
+Requirements / Eligibility
+Strong teaching, mentoring, and communication skills
+
+Proven experience in teaching, mentoring, or training students in academic or technical subjects
+Experience creating and delivering high-quality recorded classes with clear explanations and structured content
+Experience in designing, delivering, and assessing learning content
+
+Familiarity with digital learning tools and academic platforms
+
+Ability to personalize learning plans based on individual student needs
+
+Data-driven mindset to track, analyze, and improve student outcomes
+
+Collaborative approach to working with academic stakeholders
+
+Qualifications (Preferred)
+Bachelor’s or Master’s degree in Education, Training, or a related field
+Prior experience in academic instruction, training, or EdTech environments
+`
+},{
+  id: 103,
+  company: "eBay",
+  role: "AI Engineer",
+  hiringLink: "https://unstop.com/o/pELiBAh?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidates:
+
+Design analytical experiences: build intuitive React interfaces for exploring data, comparing metrics, and visualizing trends and causal drivers.
+Integrate AI-assisted analysis: connect front-end workflows to agentic pipelines that query, aggregate, and explain.
+Develop insight APIs: design FastAPI endpoints that return summaries, charts, and AI-powered diagnostics ready for human review or automation.
+Evaluate analytical quality: define success metrics such as relevance and latency; run tests to improve model-driven insights.
+Ensure interpretability: surface the underlying queries, data sources, and assumptions behind each result so users can validate and trust insights.
+Collaborate widely: partner with data science, PMs, and analytics to define metrics, shape evaluation frameworks, and iterate on user feedback.
+Maintain excellence: write tests, monitor performance, and ensure each release improves speed, clarity, and analytical correctness.
+Requirements:
+
+Experience building self-serve analytics or decision intelligence platforms.
+React for data visualization and interactive exploration.
+Analytical APIs (e.g. FastAPI), data validation, and async retrieval.
+SQL / data modeling for metrics computation, and time series analysis.
+LLM/agent analytics (prompt design, RAG, evaluation, grounding).
+Data storytelling & visualization fundamentals — clear charts, tables, and contextual narratives.
+Experience measuring insight quality via evals, A/B tests, or golden datasets.
+Excellent communication — explain analytical logic, trade-offs, and findings clearly.
+`
+},{
+  id: 104,
+  company: "Equifax",
+  role: "Technology Engineering Trainee",
+  hiringLink: "https://unstop.com/o/RS1ZVyx?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidate:
+
+You will design, develop, test, deploy, maintain and improve software
+You will translate functional and technical requirements into detailed architecture and design
+You will need extensive understanding of BDD/TDD practices, code review and analysis techniques, and open source agile testing frameworks.
+You will be part of a technical community and participate in code and design reviews to maintain our high development standards
+You will demonstrate a real passion for innovation! Any experience with Cloud Platforms like AWS, GCP and Deploying and automating infrastructure/applications using Chef, RPM, Docker, AWS (ECS, ECR), Terraform, etc. will help us on our exciting journey
+You will utilize your experience in overall system architecture, scalability, reliability, and performance
+Requirements:
+
+Currently pursuing a Bachelor's degree in Computer Science or other Information Technology-related field (Graduation date June 2026)
+Experience or coursework in Java or Python or similar programming languages.
+Experience developing accessible technologies
+You can write very high quality code that is robust and easy to maintain
+Experience in debugging, diagnosing, and trouble-shooting complex, production software
+Detailed knowledge of modern software development life cycles including CI / CD
+You have the ability to operate across a broad and complex business unit with multiple stakeholders
+`
+}
 ]
 
 export default companiesData
