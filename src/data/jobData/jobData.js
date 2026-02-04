@@ -3327,6 +3327,303 @@ Experience working on message-driven architecture.
 
 
 `
+},{
+  id: 108,
+  company: "AiRA",
+  role: "Frontend engineer",
+  hiringLink: "https://wellfound.com/l/2C1ppM",
+  location: "Bangalore Urban HSR Layout",
+  Stipend: "₹50,000 to ₹80,000per month",
+  fulldescription:`
+You'd own the webapp frontend. This is where users sign up, connect their accounts, see what Aira is doing, and control how it behaves. There's also a chat interface and an animated character (Rive) that lives in the app.
+You'd work directly with the founder. Ship daily. Things change fast because we're still learning what works.
+
+Stack
+
+TypeScript
+React / Next.js
+GSAP / Framer Motion (animations, micro-interactions)
+React Query, Zustand
+Rive (character animations - you'll learn if you don't know)
+
+What matters
+
+You notice when something feels off. Timing, spacing, motion.
+You can build things without detailed specs
+You're fine with ambiguity and constant changes
+You want to build something, not just collect a paycheck
+`
+},{
+  id: 109,
+  company: "Fynd",
+  role: "Fullstack SDE Intern",
+  hiringLink: "https://fynd.keka.com/careers/jobdetails/118311",
+  location: "Mumbai",
+  Stipend: "N/A",
+  fulldescription:`
+
+What will you do at Fynd?
+Collaborate with our development team to design, develop, and maintain web applications using Python, Node.js, Next.js, Mongodb and PostgreSQL.
+Assist in building responsive user interfaces with Tailwind CSS.
+Participate in code reviews and contribute to improving coding standards and best practices.
+Debug and troubleshoot issues across the full stack.
+Write clean, efficient, and well-documented code.
+Stay up-to-date with the latest industry trends and technologies to ensure our projects are cutting-edge.
+
+Some Specific requirements
+Currently pursuing or recently completed a degree in Computer Science, Information Technology, or a related field.
+Strong understanding of JavaScript, HTML, and CSS.
+Strong knowledge of Python
+Familiarity with React.js, Node.js, and Next.js.
+Basic knowledge of PostgreSQL or any other relational database.
+Understanding of responsive design principles and experience with Tailwind CSS.
+Good problem-solving skills and the ability to work collaboratively in a team environment.
+Eagerness to learn and adapt to new technologies and challenges.
+
+Preferred Qualifications:
+Experience with version control systems like Git.
+Exposure to modern front-end build pipelines and tools.
+Knowledge of RESTful APIs and asynchronous request handling.
+Understanding of Agile development methodologies.
+
+What will you gain:
+Hands-on experience with real-world projects and the latest technologies.
+Mentorship from experienced developers and professionals.
+A collaborative and inclusive work environment.
+Potential for full-time employment based on performance.
+`
+},{
+  id: 110,
+  company: "CloudRedux",
+  role: "UX UI Designer Internship",
+  hiringLink: "https://life.cloudredux.com/jobs/ux-ui-designer-internship/",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+What about You?
+You must be witty, smart, and sometimes sarcastic, but all the time a quirky, creative individual(s), ready to immerse into the world of wireframes, prototypes, colors, fonts, and a lot more.
+
+We want UX/UI designer(s) amongst our ranks. As a UX/UI designer at CloudReduxTM, you will design interactions for applications, websites, and products and focus on user experiences that are incredibly simple and elegant. You will also be working in the graphics domain and some other things. Because, we believe in multitasking and expanding our horizons, consistently and progressively.
+
+You will translate high-level requirements into interaction ﬂows and assets.
+
+Key Responsibilities
+Creating design ﬂows and experiences that are incredibly simple and elegant.
+Conceptualizing, designing, and prototyping new features for our core product(s) and services-related requirements.
+Conducting frequent, iterative usability testing in parallel with development.
+Collaborating with other teams to understand requirements and develop creative solutions with the best user experiences.
+Preferred Skills
+Proven experience in designing web and mobile interfaces to the highest standard(s) (Your internships, live projects, hands-on work experience, etc.).
+Excellence in usability and user experience for web applications at the organization level.
+Ability to understand business requirements and convert them into solution designs.
+Ability to provide creative suggestions through research, effective communication, and application of analytical skills & good presentation skills.
+Excellent visual design knowledge.
+Should have a good understanding of mobile and web platforms.
+Capability and desire to stay updated on emerging web design technologies, web design integration, prototyping, database-driven content, and
+web-based user interfaces.
+Ability to create mockups quickly for discussions.
+Highly proﬁcient with designing & prototyping tools.
+Creating wireframes and/or storyboards.
+Solid understanding of user-centered design principles and keen attention to detail.
+Experience in product design, User Interface Designer, Visualizer, and Interaction Designer.
+Perks
+Certiﬁcate and Letter of Recommendation.
+5 Days a week
+Paid Internship
+Not soo Formal Dress Code (+ Monday Motivation)
+Achieve Full-Time employee status at CloudReduxTM! (Based solely on your performance)
+Important Note: This is a full-time, in-ofﬁce position. The organization is headquartered in Pune. Also, this will be a paid internship position, subject to full-time conversion based on performance, buoyancy in the company environment, and other hidden parameters!
+`
+},{
+  id: 111,
+  company: "Virtual Internships",
+  role: "Software Development Intern",
+  hiringLink: "https://career.virtualinternships.com/jobs/7004284-software-development-intern-fully-remote",
+  location: "Remote",
+  Stipend: "N/A",
+  fulldescription:`
+As a Software Engineer Intern within our vibrant 15+ member product and engineering organization, you'll be getting real, hands-on software engineering experience while being at the forefront of crafting innovative solutions for our global student intern community. 
+
+Depend on your experience, strengths and interests, you can choose to specialize in one area: Backend or Frontend Web Engineering, while maintaining a basic understanding of the other. You'll work alongside experienced engineers to build and improve systems used by students and companies.
+
+This position will be a stipend-based, full-time, 6-month internship.
+
+What You’ll Be Doing
+You’ll assist in designing and building scalable systems used by millions of students and companies.
+
+You will collaborate with teams on specific components or projects, gaining hands-on experience in backend and/or frontend development.
+
+You will bring a fresh perspective to our projects, contributing innovative ideas and solutions that enhance our development processes.
+
+You will help troubleshoot production issues and contribute to finding long-term fixes.
+
+You will support performance investigations and help optimize existing queries.
+
+We believe in a small and effective team - you’ll have a voice in what to build and will take ownership of your contributions.
+
+Why You'll Love This Role
+You’ll gain hands-on experience working on a unique EdTech solution used by students and companies worldwide
+
+You’ll be part of a globally distributed team of experienced engineers and learn best practices in backend and frontend development
+
+You’ll gain exposure to the end-to-end software engineering process and modern web technologies, including Node.js, Typescript, React and cloud-based infrastructure
+
+You’ll work in a fast-paced startup environment where your contributions will be valued and make a real impact
+
+You’ll receive mentorship and detailed feedback to help accelerate your growth as an engineer
+
+You’ll have the opportunity to build a strong portfolio showcasing your development skills and projects
+
+Who We're Looking For
+Core Requirements
+A solid foundation in software development and problem-solving
+
+Command over one programming language - preferably JS/Java/Python - including basic debugging skills.
+
+Fundamental knowledge of data structures and algorithms, and familiarity with databases (relational or non-relational)
+
+Curious, proactive, and comfortable learning through hands-on work and feedback
+
+Able to communicate clearly and collaborate in a remote, global team
+
+Self-motivated and organized, with the ability to manage tasks independently
+
+Backend-Focused Path
+Command over one programming language - preferably JS/Java/Python - including basic debugging skills.
+
+Experience or coursework in building web applications and familiarity with at least one framework (e.g., Express, Django).
+
+Some knowledge of caching techniques and utilities like Memcache / Redis.
+
+Basic understanding of the REST paradigm, service-oriented architecture, and distributed systems.
+
+Knowledge of how the internet and networking works (i.e., DNS, HTTP, TLS, Certificates, etc.) and the tools and services that enable connectivity (e.g., browsers, CDNs, proxies).
+
+Frontend-Focused Path
+Passionate about frontend development and web technologies
+
+Basic knowledge of JavaScript, HTML5, and CSS, with an interest in design patterns and developer tools
+
+Familiarity with a frontend framework (e.g. React or Angular)
+
+Understanding of the UI workflow: Dev, Test, Build and Deployment
+
+You stand out from the crowd if:
+You have worked at a remote-first Series A or Series B product startup
+
+You have knowledge of and experience with how systems work at scale (e.g. threads, virtualization, configuration management, load balancers, caching, CDN)
+
+Virtual Internships Perks and Benefits 
+Remote-First: All roles at VI are currently and will remain remote - flexibility to work from anywhere
+
+Flexible Working Hours: Start earlier, leave earlier, take a shorter lunch, or leave later, it's totally up to you.
+
+Post Internship: Explore long-term opportunities internally, or get support with references, LinkedIn profile building to help with the next stages of your career journey.
+`
+},{
+  id: 112,
+  company: "Athena Health",
+  role: "Software Development AMTS Professional",
+  hiringLink: "https://www.naukri.com/job-listings-software-development-amts-professional-athenahealth-technology-private-limited-bengaluru-0-to-2-years-030226915285",
+  location: "Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Work Experience 6 month-2 Years of work Experience.
+
+Role summary
+
+As an AMTS Backend Engineer, you will design, build, and operate Node.js/Express services that power internal workflows and automation. Youll use Redis for performance and state management, MongoDB and PostgreSQL for data modeling and transaction needs, DynamoDB for high-scale, low-latency access patterns, and apply foundational AWS concepts to deploy, secure, and observe services in production.
+
+Key responsibilities
+
+Design, implement, and maintain RESTful APIs and microservices using Node.js and Express
+Implement caching, rate-limiting, background jobs, and workflow state management using Redis
+Model and optimize data across polyglot storage:
+
+o MongoDB for flexible schemas and aggregation
+
+o PostgreSQL for relational models, transactions, and complex queries
+
+o DynamoDB for high-throughput, key-value and document access patterns with GSIs/LSIs
+
+Ensure code quality through testing (unit/integration), code reviews, and CI/CD practices
+Implement observability with structured logging, metrics, and tracing to support reliable operations
+Embed security and compliance fundamentals: authentication/authorization, secrets management, and least-privilege access
+Apply basic AWS infrastructure knowledge to deploy and operate services (IAM, VPC, ALB/API Gateway, EC2/ECS/EKS basics, CloudWatch)
+Collaborate with cross-functional partners to translate business workflows into technical solutions; contribute to documentation and operational runbooks
+Required qualifications
+
+Proficiency in JavaScript/TypeScript, Node.js, and Express
+Hands-on experience with Redis (caching, key design, pub/sub, queues)
+Practical experience with MongoDB (CRUD, indexing, aggregation pipelines, schema design)
+Familiarity with DynamoDB fundamentals (partition/sort key design, GSIs/LSIs, WCU/RCU, TTL, item sizing)
+Solid understanding of REST API design (versioning, pagination, error handling, idempotency)
+Basic AWS knowledge across compute/containerization, networking fundamentals, IAM, and logging/monitoring
+Experience with Git and CI/CD; familiarity with testing frameworks (e.g., Jest/Mocha)
+Strong debugging and problem-solving skills; performance and reliability mindset
+Clear, structured communication and collaborative working style
+Preferred qualifications
+
+TypeScript-first service development and shared libraries
+Experience with asynchronous processing, background jobs, and workflow orchestration
+Familiarity with message queues/brokers and event-driven patterns
+Infrastructure-as-Code (Terraform/CloudFormation) and foundational DevOps practices
+Data migration and performance optimization across mixed storage (MongoDB, PostgreSQL, DynamoDB)
+Role: Search Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+
+`
+},{
+  id: 113,
+  company: "Milliman India Private Limited",
+  role: "Software Developer",
+  hiringLink: "https://unstop.com/o/V2uYJWg?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Navi Mumbai",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Candidate:
+
+Design, develop, test, and maintain applications using .NET technologies (C#, ASP.NET / .NET Core)
+Write and optimize SQL queries, stored procedures, and functions
+Participate in requirement analysis and translate business needs into technical solutions
+Debug, troubleshoot, and resolve application issues
+Collaborate with senior developers, QA, and other stakeholders
+Maintain code quality, documentation, and version control
+Support deployment and post-production issues as needed
+Requirements:
+Bachelor’s degree in computer science, IT, or a related field
+1 year of experience in software development
+Strong knowledge of C#, .NET / ASP.NET / .NET Core
+Hands-on experience with SQL Server
+Familiarity with REST APIs
+Knowledge of Git or other version control systems
+Good problem-solving and communication skills
+`
+},{
+  id: 114,
+  company: "Learntricks Edutech",
+  role: "Data Analyst Internship",
+  hiringLink: "https://unstop.com/o/BQntKCi?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Remote",
+  Stipend: "₹15,000 - 17,000 per month",
+  fulldescription:`
+Responsibilities of the Intern:
+
+Perform basic exploratory data analysis (EDA) to identify patterns and insights
+Create simple visualizations, charts, and dashboards to present findings
+Support the team in preparing data-driven reports and presentations
+Work with team members to understand project goals and contribute ideas
+Research industry trends, tools, and best practices in data analysis
+Assist in using and improving internal data analysis tools and workflows
+Participate in team meetings and share updates or observations
+`
 }
 ]
 
