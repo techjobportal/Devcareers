@@ -3624,6 +3624,92 @@ Research industry trends, tools, and best practices in data analysis
 Assist in using and improving internal data analysis tools and workflows
 Participate in team meetings and share updates or observations
 `
+},{
+  id: 115,
+  company: "Pocketpills",
+  role: "Backend Software Engineer Internship",
+  hiringLink: "https://unstop.com/o/mDVTeaN?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Requirements:
+
+B.Tech/ BE Computer Science branch
+Good knowledge of object-oriented design, data structures, algorithms, and SQL.
+Excellent coding skills in backend languages such as C/C++, Java, python etc
+Ability to work in a fast-paced and agile development environment.
+Genuinely excited about working in an early-stage startup, learning and solving problems without getting constrained by current knowledge or experience.
+Motivated to drive tasks to completion and take ownership of projects.
+Great problem-solving skills and propensity to learn and develop tech talent.
+Excellent verbal and written communication skills.
+Read Less
+`
+},{
+  id: 116,
+  company: "Bluescope Information Technology",
+  role: "Front End Developer",
+  hiringLink: "https://www.naukri.com/job-listings-front-end-developer-bluescope-information-technology-chennai-0-to-2-years-040226922168",
+  location: "Chennai",
+  Stipend: "N/A",
+  fulldescription:`
+We are seeking passionate and enthusiastic Frontend Developers (Freshers) with a strong interest in building modern, responsive, and dynamic web applications using ReactJS and/or Angular. The role involves close collaboration with UI/UX designers and backend teams to deliver high-quality user experiences.
+
+
+Roles & Responsibilities
+
+
+Develop interactive and responsive user interfaces using ReactJS and/or Angular
+Collaborate with backend developers to integrate RESTful APIs and services
+Translate UI/UX designs and wireframes into clean, reusable frontend code
+Ensure cross-browser compatibility and optimal application performance
+Debug, test, and optimize frontend components
+Stay updated with the latest frontend development trends and best practices
+Required Candidate Profile
+
+
+Basic understanding of ReactJS and/or Angular
+Knowledge of HTML, CSS, JavaScript
+Familiarity with RESTful APIs and frontend integration
+Understanding of responsive design principles
+Good problem-solving and communication skills
+Willingness to learn and work in a collaborative team environment
+Role: Front End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+`
+},{
+  id: 117,
+  company: "Sarc Technology",
+  role: "Web Developer",
+  hiringLink: "https://www.naukri.com/job-listings-web-developer-sarc-technology-dehradun-0-to-3-years-030226501496",
+  location: "Dehradun",
+  Stipend: "N/A",
+  fulldescription:`
+We are looking for a skilled Web Developer to join our team at SARC Technology. The ideal candidate will have a strong foundation in web development and be able to design, develop, and maintain high-quality websites.
+
+Roles and Responsibility
+Develop and maintain large-scale web applications using HTML, CSS, JavaScript, and other relevant technologies.
+Collaborate with cross-functional teams to identify and prioritize project requirements.
+Design and implement visually appealing and user-friendly interfaces for web applications.
+Troubleshoot and resolve technical issues related to web application development.
+Stay updated with the latest trends and technologies in web development.
+Participate in code reviews and contribute to improving overall code quality.
+Job Requirements
+Strong understanding of web development principles, including HTML, CSS, JavaScript, and web frameworks.
+Experience with database management systems and querying languages such as SQL.
+Familiarity with front-end development tools such as React or Angular.
+Knowledge of back-end development technologies such as Node.js or PHP.
+Excellent problem-solving skills and attention to detail.
+Ability to work collaboratively in a team environment and communicate effectively with stakeholders.
+
+
+Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users. We encourage job seekers to verify all details directly with the employer via their official channels before applying.
+Role: Back End Developer
+`
 }
 ]
 
