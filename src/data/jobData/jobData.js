@@ -3858,6 +3858,65 @@ Mentorship from experienced engineers
 Exposure to Frontend, Backend, and Mobile engineering domains
 A strong foundation for a full-time software engineering role
 `
+},{
+  id: 122,
+  company: "ICICI",
+  role: "ICICI Bank Aspire Program",
+  hiringLink: "https://www.icicicareers.com/CareerApplicantApi/Career/sharejob/2547189",
+  location: "Pan India",
+  Stipend: "N/A",
+  fulldescription:`
+The ICICI Bank Aspire Program nurtures young professionals to pursue a career in banking, with a strong focus on learning, capability building, and cultural grounding. The program prepares participants to join the Bank as Relationship Managers in a sales role, guided by the Bank’s culture of “seva bhav”—serving customers with integrity, empathy, and responsibility.  In this sales role, you will engage closely with customers to understand their needs, build long-term relationships, and responsibly offer appropriate banking solutions, in line with the Bank’s values of truth, trust, and transparency, and the principle of being fair to the customer and fair to the Bank. The role involves continuous customer interactions and may require travel within and around the assigned location or city.
+
+The program includes 2 months of structured classroom training at a residential campus, the cost of which is borne by ICICI Bank. Upon successful completion of the program, you will be placed in Relationship Management (sales) roles at various locations across the country.
+Eligibility
+
+Education - Graduates, Engineers, Post Graduates, MBA
+
+Qualifying Marks - Minimum with 60% in 10th and Graduation.
+
+Age - Below 25 years (as on date of application)
+
+Role and Location Fungibility - Applicant should be locationally mobile and willing to do Relationship & Sales roles
+
+Experience - 0 to 2 Years
+Program Duration
+2 Months Classroom Training
+Stipend during the programme
+A stipend of Rs.18,000 per month will be paid during the programme.
+
+Starting Salary (CTC) - Rs.4.50 Lakh to Rs.5.00 Lakh*
+*Based on location.
+Selection Process
+
+Step 1 - Online Aptitude Test
+Once the applicants are shortlisted, the first step is to undergo an online aptitude test. It comprises of five sections (Verbal, Quantitative, Logical ability, General Awareness, Video based questions).
+
+Step 2 - Manipal Probationary Officer Online Personal Interview
+Interview (Face-to-Face)
+Applicants who have successfully completed the aptitude test shall be invited for the in-person interview. Detailed information on the interview will be shared on your registered mail ID.
+Role of a Relationship Manager 
+After completing the Aspire program you would take up the role of a Relationship Manager. Please find below the role description of a Relationship Manager.
+
+A Relationship Manager  is a core anchor in taking our banking solutions and services to our valuable customers. This involves a 360-degree banking approach. The Relationship Managers should have an inclination to understand the customer needs and offer solutions in line with the needs. The core philosophy to hold is being “Fair to the Customer and Fair to the Bank”. At ICICI Bank, our customer-centric relationship managers are responsible for acquiring new customer relationships and increasing the wallet share of existing customer relationships with a resolute focus on service quality and customer delight. They collaborate and work with different internal teams, thereby offering the best in class customer service. In line with our philosophy of taking the entire bank to the customers, our relationship managers work on the whole suite of offerings like saving solutions, loan products, overdraft solutions, Insta loans, investment solutions, care products, trade solutions, business loans, or wealth management solutions while upholding our fundamental value of being Fair to the Bank and Fair to the Customer.
+
+Bankable individuals not just Bankers: We hire from diverse educational background!
+We at ICICI Bank are in continuous pursuit of creating consistent customer delight and superior experience. Our Relationship Managers are empowered individuals who champion the cause of customer experience and have penchant for building and nurturing business relationships. If you are an individual, whose heart echoes with our aspiration, look no more. We do not just choose diverse minds but celebrate their success. If you are a bankable individual without banking experience, you are very much welcome. Our training programs equip you to get ready for the role of a Relationship Manager. You are welcome to apply for the role.
+Key Responsibilities
+lifecycle
+Customer Service
+
+Create service excellence by partnering with customers through their life cycle and offering suitable products and services based on their financial needs while being fair to the customer and fair to the bank in all engagements. 
+market Business Development
+ Ensuring a growth in wallet share of existing customers and on boarding new customers by offering 360-degree banking solutions that meet the needs of our customers. 
+ roadmap Champion 360-degree banking
+ Offer products based on customer needs in collaboration with other internal teams in the bank for suitable product offerings.
+ portfolio Enhance the portfolio quality
+ Work towards enhancing customer portfolio within the philosophy of Fair to Bank, Fair to Customer tech Customized solutions 
+As per branch guidelines. Upkeep and maintaining  of the branch. Ensure availability of necessary infrastructure in the branch. portfolio Behold our values
+
+Offer products that are fair to our customers and fair to the bank.
+`
 }
 ]
 
