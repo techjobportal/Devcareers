@@ -42,7 +42,7 @@ const Header = () => {
                         href='/subscribe-us' 
                         className='text-gray-700 hover:text-orange-500 transition-colors duration-200 relative group'
                     >
-                        Subscirbe
+                        Subscribe
                         <span className='absolute bottom-0 left-0 w-0 h-0.5 bg-orange-500 group-hover:w-full transition-all duration-200'></span>
                     </a>
                     <a 
