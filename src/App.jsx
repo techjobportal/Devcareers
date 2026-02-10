@@ -5,6 +5,7 @@ import Companies_details from './pages/Companies_details'
 import Resources from './pages/Resources'
 import Contact_us from './pages/Contact_us'
 import Legal_info from './pages/Legal_info'
+import SubscribeUs from './pages/SubscribeUs'
 import Header from './components/Header'
 import Header1 from './components/Header1'
 import { Analytics } from "@vercel/analytics/react"
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/resources" element={<Resources />} />
         <Route path="/contact-us" element={<Contact_us />} />
         <Route path="/legal-info" element={<Legal_info />} />
+        <Route path="/subscribe-us" element={<SubscribeUs/>}/>
       </Routes>
       <Analytics />
     </div>
