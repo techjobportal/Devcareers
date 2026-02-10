@@ -39,6 +39,13 @@ const Header = () => {
                         <span className='absolute bottom-0 left-0 w-0 h-0.5 bg-orange-500 group-hover:w-full transition-all duration-200'></span>
                     </a>
                     <a 
+                        href='/subscribe-us' 
+                        className='text-gray-700 hover:text-orange-500 transition-colors duration-200 relative group'
+                    >
+                        Subscirbe
+                        <span className='absolute bottom-0 left-0 w-0 h-0.5 bg-orange-500 group-hover:w-full transition-all duration-200'></span>
+                    </a>
+                    <a 
                         href='/contact-us' 
                         className='text-gray-700 hover:text-orange-500 transition-colors duration-200 relative group'
                     >
@@ -82,6 +89,13 @@ const Header = () => {
                         onClick={() => setIsMenuOpen(false)}
                     >
                         Resources
+                    </a>
+                    <a 
+                        href='/subscribe-us' 
+                        className='text-gray-700 hover:text-orange-500 transition-colors duration-200 text-lg font-medium py-2 border-l-4 border-transparent hover:border-orange-500 pl-4'
+                        onClick={() => setIsMenuOpen(false)}
+                    >
+                        Subscribe
                     </a>
                     <a 
                         href='/contact-us' 
