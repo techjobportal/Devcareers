@@ -3917,6 +3917,124 @@ As per branch guidelines. Upkeep and maintaining  of the branch. Ensure availabi
 
 Offer products that are fair to our customers and fair to the bank.
 `
+},{
+  id: 123,
+  company: "Ahura Web Services",
+  role: "Associate Developer",
+  hiringLink: "https://www.naukri.com/job-listings-090226029078",
+  location: "Ahemdabad Hybrid",
+  Stipend: " 3-8 Lacs P.A.",
+  fulldescription:`
+About the Role
+
+
+
+We are seeking a motivated Associate Support Developer to join our team. In this role, you will bridge the gap between development and client success by providing essential technical assistance to our partners and external organizations. You will serve as a technical expert ,developer and assistant.
+
+
+
+Key Responsibilities
+
+
+
+
+Develop and maintain scalable web applications using Next.js, React.js, and Node.js.
+Build and integrate RESTful APIs.
+Work with modern databases (SQL and NoSQL) such as MySQL, PostgreSQL, and MongoDB.
+Create responsive and user-friendly interfaces following UI/UX best practices.
+Write clean, efficient, and reusable code adhering to coding standards.
+Act as a technical point of contact for clients and external organizations, providing expert guidance and hands-on assistance.
+Work directly with external technical teams to troubleshoot integrations and resolve platform-related queries.
+Assist in maintaining and updating web applications built with Next.js, React.js, and Node.js.
+Identify, debug, and fix issues reported by clients or internal monitoring tools.
+Help develop minor features or custom scripts to meet specific client needs.
+Work closely with senior developers and product managers to communicate client feedback and improve the overall product.
+Required Skills and Qualifications
+
+
+
+0-1+ years of experience in web development or a technical support/assistant role.
+Foundational Coding Knowledge: Strong understanding of JavaScript and basic programming logic.
+Frontend Basics: Proficiency in React.js and Next.js.
+Backend Basics: Familiarity with Node.js and how APIs work.
+Problem-Solving: Ability to analyze a technical issue and find a logical solution.
+Communication: Excellent verbal and written communication skills, with the ability to explain technical concepts to external partners clearly.
+Version Control: Basic knowledge of Git and GitHub/GitLab.
+
+Nice to Have
+
+
+Knowledge of Redis, MeiliSearch, GraphQL, or WebSockets.
+Experience with cloud platforms (AWS, GCP, or Azure).
+Experience in a client-facing or technical assistant role.
+Familiarity with SQL or NoSQL databases.
+Basic understanding of CSS frameworks like Tailwind.
+Knowledge of Postman or similar tools for testing APIs.
+
+What We Offer
+
+
+Competitive compensation package.
+Flexible work schedule.
+Opportunity to work on challenging and impactful projects.
+Supportive and collaborative team environment.
+Career development and learning opportunities.
+`
+},{
+  id: 124,
+  company: "Time Pilot Software Private Limited",
+  role: "Software Engineering Internship",
+  hiringLink: "https://unstop.com/o/iyGprSw?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Hyderabad",
+  Stipend: "₹ 15K/Month - 20K/Month",
+  fulldescription:`
+Key Responsibilities:
+Develop and enhance cross-platform mobile applications using Flutter & Dart for Android and iOS
+Implement application features, UI improvements, and performance optimizations
+Assist in integrating backend APIs and Firebase services required for mobile applications
+Work with databases and cloud services such as Firebase / MongoDB
+Follow clean coding practices, use Git/GitHub, and collaborate effectively in a remote team setup
+Requirements:
+Students currently pursuing a degree in Computer Science, Software Engineering, or a related field
+Hands-on experience with Flutter & Dart (academic or personal projects are acceptable)
+Basic understanding of JavaScript and backend/API concepts
+Familiarity with Firebase or similar backend services
+Understanding of Data Structures and Algorithms
+Good problem-solving skills and willingness to learn
+`
+},{
+  id: 125,
+  company: "Mirfa IBC",
+  role: "Software Engineer Intern",
+  hiringLink: "https://wellfound.com/l/2C1TpW",
+  location: "Remote ",
+  Stipend: "$5k – $10k",
+  fulldescription:`
+Early engineering team member at a prop-tech startup building AI-powered real estate operations and smart-home infrastructure. Owned end-to-end feature development across backend, frontend, and cloud systems, contributing directly to live production deployments.
+
+Hires remotely in Everywhere
+Remote Work Policy: Remote only
+
+Company Location: Dubai
+Visa Sponsorship: Not Available
+Preferred Timezones : Dubai Time
+Relocation : Not Allowed
+
+
+Impact:
+
+Shipped customer-facing dashboards and internal tools used by operations teams
+
+Built REST/WebSocket APIs powering IoT and automation workflows
+
+Integrated smart devices (Zigbee2MQTT, locks, cameras, sensors)
+
+Improved performance and reliability of multi-tenant architecture
+
+Helped automate provisioning and updates using Terraform + Docker
+
+Worked across the stack in a fast-paced, high-ownership environment
+`
 }
 ]
 
