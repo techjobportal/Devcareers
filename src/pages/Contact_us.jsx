@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 
 const Contact_Us = () => {
   const [copied, setCopied] = useState(false)
-
+  const email = import.meta.env.VITE_RECIPIENT_EMAIL
   const copyEmail = () => {
-    navigator.clipboard.writeText('growwmeet@gmail.com')
+    navigator.clipboard.writeText(email)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
   }
@@ -12,7 +12,7 @@ const Contact_Us = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-white to-orange-50 px-4 py-12">
       <div className="max-w-4xl mx-auto">
-        
+
         {/* Header */}
         <div className="text-center mb-10">
           <h1 className="text-4xl md:text-5xl font-bold text-black mb-4">
@@ -25,7 +25,7 @@ const Contact_Us = () => {
 
         {/* Main Contact Card */}
         <div className="bg-white rounded-2xl border border-orange-200 shadow-lg p-6 md:p-10 mb-6">
-          
+
           {/* Email Section */}
           <div className="text-center mb-8 p-6 bg-gradient-to-r from-orange-50 to-orange-100 rounded-xl border border-orange-200">
             <p className="text-sm text-black/70 mb-3 font-medium">
@@ -33,10 +33,10 @@ const Contact_Us = () => {
             </p>
             <div className="flex items-center justify-center gap-2 flex-wrap">
               <a
-                href="mailto:growwmeet@gmail.com"
+                href={`mailto:${email}`}
                 className="inline-block text-[#FA5500] font-bold text-xl md:text-2xl hover:text-orange-600 transition-all"
               >
-                growwmeet@gmail.com
+                {email}
               </a>
               <button
                 onClick={copyEmail}
@@ -64,7 +64,7 @@ const Contact_Us = () => {
             <h2 className="text-lg font-bold text-black mb-6 text-center">
               What can we help you with?
             </h2>
-            
+
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="flex items-start gap-3 p-4 rounded-lg bg-gradient-to-br from-white to-orange-50 border border-orange-100 hover:border-orange-300 transition-all hover:shadow-md">
                 <div className="w-2 h-2 bg-[#FA5500] rounded-full mt-2 flex-shrink-0"></div>
