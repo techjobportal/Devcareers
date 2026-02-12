@@ -4208,6 +4208,175 @@ UG: Bachelor of Technology / Bachelor of Engineering (B.Tech/B.E.) in Electronic
 `
 },{
   id: 130,
+  company: "Flightindeed",
+  role: "Software Development Engineer",
+  hiringLink: "https://unstop.com/o/yIM7R5T?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "South Delhi",
+  Stipend: "₹ 20K/Month - 50K/Month",
+  fulldescription:`
+Eligibility : Fresher
+
+What You’ll Do:
+
+Collaborate with senior developers to build and maintain responsive web applications.
+Work on front-end interfaces using HTML, CSS, and JavaScript (React/Next.js experience is a plus!).
+Assist in API integrations and backend optimizations.
+Participate in code reviews and agile sprints.
+Help troubleshoot, debug, and upgrade our platform.
+What’s In It For You?
+
+True Flexibility: Enjoy a mix of Remote and Office days (Hybrid).
+Real Impact: Work on live projects that reach thousands of users.
+Mentorship: Learn directly from experienced engineers.
+Certificate & Stipend: Get rewarded for your hard work and growth.
+Who We’re Looking For:
+
+A student or recent graduate in CS, IT, or a related field.
+Hands-on experience with modern web frameworks.
+A problem-solver who isn't afraid to dive deep into a bug.
+Strong communication skills and a team-player attitude.
+`
+},{
+  id: 131,
+  company: "Grid Dynamics",
+  role: "Java Backend Developer",
+  hiringLink: "https://www.naukri.com/job-listings-java-backend-developer-grid-dynamics-bengaluru-0-to-1-years-120226500586",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+We are looking for a skilled Java Developer to design, develop, and maintain scalable backend systems. The ideal candidate has strong experience in Java-based microservices, event-driven architectures using Kafka and RabbitMQ, and modern containerized deployments with Docker and Kubernetes.
+
+
+
+Essential functions
+
+
+Design, develop, and maintain high-performance Java applications
+
+Build and manage microservices-based architectures
+
+Implement event-driven and messaging solutions using Apache Kafka and RabbitMQ
+
+Develop RESTful APIs and integrate with external services
+
+Containerize applications using Docker and deploy/manage them on Kubernetes
+
+Optimize application performance, scalability, and reliability
+
+Write clean, maintainable, and testable code following best practices
+
+Collaborate with cross-functional teams (DevOps, QA, Product)
+
+Participate in code reviews and contribute to technical design discussions
+
+Troubleshoot production issues and provide timely resolutions
+
+
+
+
+Qualifications
+
+
+Strong proficiency in Java (Java 8+)
+
+Experience with Spring / Spring Boot
+
+Hands-on experience with Apache Kafka and RabbitMQ
+
+Solid understanding of microservices architecture
+
+Experience with Docker for containerization
+
+Practical knowledge of Kubernetes (K8s) for orchestration
+
+Familiarity with REST APIs, JSON, and HTTP
+
+Experience with relational and/or NoSQL databases
+
+Understanding of CI/CD pipelines and DevOps practices
+
+Good problem-solving and debugging skills
+
+
+
+
+Would be a plus
+
+
+Experience with cloud platforms (AWS, Azure, GCP)
+
+Knowledge of Helm, Prometheus, Grafana
+
+Exposure to Reactive Programming (WebFlux, RxJava)
+
+Experience with security best practices (OAuth2, JWT)
+
+Understanding of domain-driven design (DDD)
+
+
+
+
+We offer
+
+
+Opportunity to work on bleeding-edge projects
+
+Work with a highly motivated and dedicated team
+
+Competitive salary
+
+Flexible schedule
+
+Benefits package - medical insurance, sports
+
+Corporate social events
+
+Professional development opportunities
+
+Well-equipped office
+
+
+
+Role: Back End Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+`
+},{
+  id: 132,
+  company: "Influsser",
+  role: "Full Stack Developer Wordpress and Shopify",
+  hiringLink: "https://unstop.com/o/NfeSZLY?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Greater Noida",
+  Stipend: "N/A",
+  fulldescription:`
+Eligibility : Fresher
+Details
+What You’ll Work On:
+
+Internal marketplace to manage brands, products, and sorting attributes
+WordPress-based frontend integration
+Structuring data and logic for future AI use
+What We’re Looking For:
+
+Strong full-stack development experience
+Experience building internal tools or admin systems
+Comfortable working with WordPress + custom APIs & Shopify
+Ability to think in systems and logic, not just UI
+Bonus: Experience with headless systems, early-stage products, or recommendation logic.
+
+This Role Is Not:
+
+A generic e-commerce role
+Influencer tech or marketing tech
+
+`
+},{
+  id: 133,
   company: "TBD Escholars Books Development PVT LTD",
   role: "Full-Stack Web Developer",
   hiringLink: "https://unstop.com/o/bIAX230?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
