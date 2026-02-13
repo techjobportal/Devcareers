@@ -70,7 +70,7 @@ const StatsCounter = () => {
   }, [isVisible]);
 
   return (
-    <div ref={sectionRef} className="py-16 mb-20">
+    <div ref={sectionRef} className="py-16 mb-5">
       <div className="max-w-7xl mx-auto px-8">
         {/* Trust Header */}
         <div className="text-center mb-12">
