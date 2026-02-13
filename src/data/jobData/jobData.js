@@ -4445,6 +4445,187 @@ SaaS or startup project experience
 Stripe / Razorpay / payment integrations
 Role-based dashboards (admin/user panels)
 `
+},{
+  id: 134,
+  company: "Concentrix",
+  role: "Mass hiring",
+  hiringLink: "https://concentrix.myamcat.com/register?data=zfmPuUF9UxJRR0maCTAXsacw8z2SCN9CHKUEKlBxfKKuOiCtWiv9x2nQTjNAj9LSeNqPICO7o0HQzAYmoS6GUA%3D%3D&utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAVERTVgP7hU1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaekX0krHqbkaZll-wPhwfnT4nqHrcWpbM6bPEnU95lhsrex9CWRvSeI3A3K2g_aem_Qb8m2FR1FK2KzSS4VcVvOQ",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+General Instructions:
+Asterisk(*) fields are compulsory.
+By filling out this registration form you are taking the first step toward a successful career with us.
+By registering today, you are committing to take a recorded online assessment, with one of our virtual recruiters, to assess your suitability for a role with us. This interview can either be taken immediately or at a time convenient to you.
+Good luck! And we hope to see you working with us very soon.
+`
+},{
+  id: 135,
+  company: "American Express",
+  role: "Apprentice",
+  hiringLink: "https://aexp.eightfold.ai/careers/job/39996686?hl=en",
+  location: "Hybrid",
+  Stipend: "N/A",
+  fulldescription:`
+About the role:
+
+This role is offered under the National Apprenticeship Training Scheme (NATS) in accordance with the Apprentices Act, 1961.The Apprentice – Data Issue Management will undergo structured, on-the-job training within the Finance Data Governance organization, supporting the Data Issue Management & Risk Monitoring function. The role is designed to provide practical exposure, skill development, and industry-relevant learning, preparing the apprentice for future employability in finance and data governance functions. The apprentice will work under close supervision and guidance of senior team members and will not be considered a regular employee.
+
+Key responsibilities
+
+Support the Data Issue Management lifecycle, including issue intake, documentation, classification, prioritization, root cause analysis, remediation tracking, and closure validation.
+
+Assist in monitoring data risks across key finance datasets and reports under defined supervision.
+
+Learn and support risk-based monitoring activities, including early warning indicators, basic risk metrics, and control effectiveness tracking.
+
+Maintain and update a centralized log of data issues, ensuring accuracy, traceability, and audit readiness.
+
+Support preparation of reports and dashboards for internal stakeholders, focusing on issue trends, remediation status, and key risk insights
+
+Participate in structured training sessions, knowledge-sharing forums, and mandatory compliance learnings as required under NATS.
+
+Minimum Qualifications
+
+Candidate must be within five years of graduation completion.
+
+Candidate must have less than or equal to 11 months of prior work experience (not mandatory).
+
+Candidate must not have completed apprenticeship under any Government of India apprenticeship scheme earlier
+
+Basic understanding of finance, data, or reporting concepts.
+
+Strong analytical thinking and problem-solving ability.
+
+Working knowledge of MS Excel and PowerPoint.
+
+Willingness to learn tools related to data quality, data governance, and reporting (e.g., Collibra, SQL – exposure preferred, not mandatory).
+
+Good communication skills and ability to work collaboratively with multiple teams.
+
+Positive attitude, learning agility, and curiosity to develop new skills.
+
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and leadership behaviors, and an unwavering commitment to back our customers, communities and colleagues. As part of Team Amex, you’ll experience this powerful backing:
+
+
+• Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
+• Career development and training opportunities
+`
+},{
+  id: 136,
+  company: "Blubridge",
+  role: "Full Stack Developer",
+  hiringLink: "https://www.naukri.com/job-listings-full-stack-developer-freshers-blubridge-chennai-0-to-1-years-010725029871",
+  location: "Chennai",
+  Stipend: "N/A",
+  fulldescription:`
+Overview:
+
+We are seeking intellectually curious and motivated fresh graduates to join as Full Stack Developers. You'll gain comprehensive programming experience across frontend and backend technologies, preparing you for future opportunities in specialized AI research roles.
+
+
+Key Responsibilities:
+
+Learn and implement both frontend and backend programming practices.
+Build and maintain scalable web applications.
+Collaborate with cross-functional teams to enhance development processes.
+Actively participate in discussions, offering innovative solutions and creative ideas.
+Document methodologies, results, and contribute to research publications.
+Continuously explore and adopt new technologies and frameworks.
+
+Requirements:
+
+Bachelor's degree in any discipline (Engineering/Computer Science preferred but not mandatory).
+Strong logical reasoning and high intellectual potential.
+Basic understanding of HTML, CSS, JavaScript, and backend languages(Node.js, Java, Python).
+Strong foundation in mathematics and statistics, including calculus, linear algebra, probability, and statistical inference.
+Curiosity and enthusiasm for learning.
+
+
+What We Offer:
+
+A dynamic and innovative work environment in an advanced AI research team.
+Opportunities for professional growth, mentorship, and learning.
+Competitive salary and benefits.
+Access to the latest tools and technologies in AI.
+
+`
+},{
+  id: 137,
+  company: "ValuePoint",
+  role: "Associate Technical Consultant",
+  hiringLink: "https://www.naukri.com/job-listings-associate-technical-consultant-value-point-systems-mumbai-0-to-3-years-130226500166",
+  location: "Mumbai",
+  Stipend: "N/A",
+  fulldescription:`
+Job description
+Join our engineering team as an AI/ML Engineer and work onnext-generation AI and Machine Learning applications. This is an excellentopportunity for fresh graduates passionate about Artificial Intelligence,Machine Learning, and modern web application development. Youll help buildintuitive, high-performance user interfaces and robust machine learning modelsfor real-world Generative AI applications such as chatbots, AI assistants,dashboards, and data-driven workflows.
+Key Responsibilities
+Frontend AI Application Development
+Develop responsive and interactive web interfaces for AI/ML-powered applications.
+Convert UI/UX designs (Figma / Adobe XD) into pixel-perfect, reusable frontend components using React.js or Angular.js.
+Integrate frontend applications with backend and AI APIs (REST / streaming APIs).
+Optimize applications for scalability, performance, and cross-browser compatibility.
+Implement accessibility standards (WCAG) and ensure usability and performance.
+Machine Learning Model Development Implementation
+Design, develop, and optimize machine learning models for business use cases.
+Conduct feature engineering, selection, and hyperparameter tuning.
+Deploy ML and LLM models to production environments using Azure ML and Azure Cloud.
+Set up CI/CD pipelines, model monitoring, logging, and lifecycle governance.
+Data Engineering Processing
+Clean, preprocess, and transform large-scale datasets for ML model training.
+Build and maintain robust, automated data pipelines for ingestion and processing.
+Work with structured and unstructured data from multiple sources, ensuring data quality and validation.
+API Development Backend Integration
+Design and develop high-performance REST APIs using FastAPI for ML/LLM inference.
+Expose ML and AI agent capabilities via secure, scalable backend services.
+Integrate APIs with Azure services and manage authentication, authorization, and request validation.
+Collaboration Agile Practices
+Collaborate closely with backend engineers, AI/ML teams, UI/UX designers, and product managers.
+Participate in code reviews, sprint discussions, and Agile ceremonies.
+Stay updated with the latest trends in frontend, GenAI UX, and AI/ML technologies.
+Required Skills Qualifications
+Technical Skills
+Programming: Python (for ML) and JavaScript (ES6+) for frontend development.
+Frontend Frameworks: React.js (preferred) or Angular.js.
+Styling: Bootstrap, Tailwind CSS, Material UI, or Ant Design.
+Backend Frameworks: FastAPI.
+ML Frameworks: Scikit-learn, XGBoost, Random Forest, Boosting Models, SVM.
+Deep Learning: PyTorch, Keras.
+LLM Frameworks: GPT-based models, OpenAI, RAG systems, Chatbots, AI Agents.
+Cloud Platforms: Azure ML and Azure Cloud (added advantage).
+Databases: SQL and NoSQL (eg, MongoDB).
+Version Control: Git and GitHub/GitLab.
+Containerization: Docker.
+Tools: VS Code or similar IDEs; npm/yarn basics.
+Good to Have Skills
+Generative AI / ML concepts (LLMs, chatbots, AI assistants).
+Experience building chat interfaces or dashboards.
+TypeScript fundamentals; state management (Redux / Context API / Zustand).
+Streaming responses / WebSockets.
+Node.js or Python for backend API integration.
+Agile/Scrum methodologies.
+Web accessibility and performance optimization.
+MLOps tools (MLflow), model interpretability, explainable AI (XAI).
+End-to-end AI product development (Model API UI).
+Big-data technologies (Apache Spark).
+Soft Skills
+Strong analytical and problem-solving abilities.
+Excellent communication skills.
+Adaptability to evolving AI and technology landscape.
+Effective teamwork in cross-functional teams.
+Educational Qualifications
+Bachelors or Masters degree in Computer Science, Data Science, Mathematics, or related field.
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: LLM in Law, Any Postgraduate
+`
 }
 ]
 
