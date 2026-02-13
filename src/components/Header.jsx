@@ -7,7 +7,6 @@ const Header = () => {
     const toggleMenu = () => {
         setIsMenuOpen(!isMenuOpen)
     }
-
     return (
         <div className="relative bg-white shadow-lg">
             <div className="py-5 px-4 sm:px-8 flex justify-between items-center">

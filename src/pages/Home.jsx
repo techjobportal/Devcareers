@@ -1,5 +1,7 @@
 import React from 'react'
 import Header1 from '../components/Header1'
+import Footer from '../components/Footer'
+import StatsCounter from '../components/StatsCounter'
 const Home = () => {
   return (
     <>
@@ -17,7 +19,7 @@ const Home = () => {
           </div>
 
           {/* Feature Cards */}
-          <div className="grid md:grid-cols-3 gap-8 mb-20">
+          <div className="grid md:grid-cols-3 gap-8">
             {/* Latest Jobs Card */}
             <div className="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition-shadow duration-300 border-t-4 border-orange-500">
               <div className="w-14 h-14 bg-orange-100 rounded-full flex items-center justify-center mb-6">
@@ -98,23 +100,10 @@ const Home = () => {
 
         </div>
 
+        <StatsCounter/>
         {/* Footer */}
-        <footer className="bg-white border-t-2 border-orange-500 py-6">
-          <div className="max-w-7xl mx-auto px-8 flex flex-wrap justify-center items-center gap-6 text-sm">
-            <a href="/" className="text-gray-600 hover:text-orange-500 transition-colors">Home</a>
-            <span className="text-gray-300">|</span>
-            <a href="/company-details" className="text-gray-600 hover:text-orange-500 transition-colors">Job Posting</a>
-            <span className="text-gray-300">|</span>
-            <a href="/resources" className="text-gray-600 hover:text-orange-500 transition-colors">Resources</a>
-            <span className="text-gray-300">|</span>
-            <a href="/contact-us" className="text-gray-600 hover:text-orange-500 transition-colors">Contact Us</a>
-            <span className="text-gray-300">|</span>
-            <a href="/legal-info" className="text-gray-600 hover:text-orange-500 transition-colors">Legal</a>
-          </div>
-          <div className="text-center mt-4">
-            <p className="text-gray-600 text-xs">© 2024 Job Portal. All rights reserved.</p>
-          </div>
-        </footer>
+        <Footer/>
+
       </div></>
   )
 }
