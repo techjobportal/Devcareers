@@ -3982,14 +3982,14 @@ If you would like more information about this role, please contact Qualcomm Care
 `
 },{
   id: 138,
-  company: "Amazon",
-  role: "Software Dev Engineer I",
-  hiringLink: "https://www.amazon.jobs/en/jobs/2935068/software-dev-engineer-i-amazon-university-talent-acquisition",
-  location: "N/A",
+  company: "Deloitte",
+  role: "Azure or AWS DevOps Engineer  Analyst",
+  hiringLink: "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH26-Infrastructure-Azure-AWS-DevOps-Engineer-Analyst-Hyderabad/319733",
+  location: "Hyderabad",
   Stipend: "N/A",
   fulldescription:`
-N/A
-`
+For more details, Visit Official Page by Clicking on career page link above
+  `
 },{
   id: 139,
   company: "Beeflow data Technologies",
@@ -3998,7 +3998,28 @@ N/A
   location: "N/A",
   Stipend: "N/A",
   fulldescription:`
-N/A
+For more details, Visit Official Page by Clicking on career page link above
+`
+},{
+  id: 140,
+  company: "Kukbit SL",
+  role: "Java Development Internship",
+  hiringLink: "https://unstop.com/o/9p6zKvc?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "N/A",
+  Stipend: "₹ 12K/Month",
+  fulldescription:`
+For more details, Visit Official Page by Clicking on career page link above
+`
+},{
+  id: 141,
+  company: "Suminno",
+  role: "Junior Flutter App Developer Internship",
+  hiringLink: "https://unstop.com/o/ZNO64uE?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Jaipur",
+  Stipend: "8k/month",
+  fulldescription:`
+For more details, Visit Official Page by Clicking on career page link above
+
 `
 }
 ]
