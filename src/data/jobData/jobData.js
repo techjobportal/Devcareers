@@ -3821,42 +3821,6 @@ If you would like more information about this role, please contact Qualcomm Care
   location: "Mumbai",
   Stipend: "N/A",
   fulldescription:`
-Role Overview
-We are looking for a Software Engineer Internship with strong problem-solving abilities and solid computer science fundamentals. This role is designed for candidates who enjoy learning, building software systems, and applying core CS concepts to real-world problems. As an intern, you will work on production systems, collaborate with experienced engineers, and gain exposure to multiple areas of software development. Depending on your interests and team requirements, you may work on web/mobile user interfaces, backend services, or platform and infrastructure components.
-What you'll do:
-Design, develop, and maintain software components and applications
-Apply data structures and algorithms to solve practical engineering problems
-Work on client–server and service-oriented architectures
-Build and integrate features for web-based applications
-Design and use databases, including table schemas and queries
-Write clean, efficient, and maintainable code
-Debug issues, improve performance, and enhance system reliability
-Collaborate with team members across engineering and product
-Required Skills & Qualifications
-Strong problem-solving skills with a good grasp of Data Structures & Algorithms
-Strong computer science fundamentals, including:
-Operating Systems
-Networking
-Databases
-Understanding of web applications and client–server architecture
-Experience with database design, table structures, and query usage
-Exposure to any of the following technologies:
-Frontend: React, modern JavaScript frameworks
-Backend: Node.js, Java-based services, REST APIs
-Mobile: Android (Java/Kotlin), iOS (Swift), React Native.
-Open to new ideas with strong adaptability
-High hunger for learning and willingness to put in hard work
-Ability to take ownership and learn quickly in a fast-paced environment
-Good to Have
-Prior internships, academic projects, or personal projects in Frontend, Backend, or Mobile development
-Exposure to system design basics
-Familiarity with Git or version control systems
-Knowledge of REST APIs or service-based architectures
-What you’ll Gain
-Hands-on experience working on real production systems
-Mentorship from experienced engineers
-Exposure to Frontend, Backend, and Mobile engineering domains
-A strong foundation for a full-time software engineering role
 `
 },{
   id: 122,
@@ -3866,56 +3830,6 @@ A strong foundation for a full-time software engineering role
   location: "Pan India",
   Stipend: "N/A",
   fulldescription:`
-The ICICI Bank Aspire Program nurtures young professionals to pursue a career in banking, with a strong focus on learning, capability building, and cultural grounding. The program prepares participants to join the Bank as Relationship Managers in a sales role, guided by the Bank’s culture of “seva bhav”—serving customers with integrity, empathy, and responsibility.  In this sales role, you will engage closely with customers to understand their needs, build long-term relationships, and responsibly offer appropriate banking solutions, in line with the Bank’s values of truth, trust, and transparency, and the principle of being fair to the customer and fair to the Bank. The role involves continuous customer interactions and may require travel within and around the assigned location or city.
-
-The program includes 2 months of structured classroom training at a residential campus, the cost of which is borne by ICICI Bank. Upon successful completion of the program, you will be placed in Relationship Management (sales) roles at various locations across the country.
-Eligibility
-
-Education - Graduates, Engineers, Post Graduates, MBA
-
-Qualifying Marks - Minimum with 60% in 10th and Graduation.
-
-Age - Below 25 years (as on date of application)
-
-Role and Location Fungibility - Applicant should be locationally mobile and willing to do Relationship & Sales roles
-
-Experience - 0 to 2 Years
-Program Duration
-2 Months Classroom Training
-Stipend during the programme
-A stipend of Rs.18,000 per month will be paid during the programme.
-
-Starting Salary (CTC) - Rs.4.50 Lakh to Rs.5.00 Lakh*
-*Based on location.
-Selection Process
-
-Step 1 - Online Aptitude Test
-Once the applicants are shortlisted, the first step is to undergo an online aptitude test. It comprises of five sections (Verbal, Quantitative, Logical ability, General Awareness, Video based questions).
-
-Step 2 - Manipal Probationary Officer Online Personal Interview
-Interview (Face-to-Face)
-Applicants who have successfully completed the aptitude test shall be invited for the in-person interview. Detailed information on the interview will be shared on your registered mail ID.
-Role of a Relationship Manager 
-After completing the Aspire program you would take up the role of a Relationship Manager. Please find below the role description of a Relationship Manager.
-
-A Relationship Manager  is a core anchor in taking our banking solutions and services to our valuable customers. This involves a 360-degree banking approach. The Relationship Managers should have an inclination to understand the customer needs and offer solutions in line with the needs. The core philosophy to hold is being “Fair to the Customer and Fair to the Bank”. At ICICI Bank, our customer-centric relationship managers are responsible for acquiring new customer relationships and increasing the wallet share of existing customer relationships with a resolute focus on service quality and customer delight. They collaborate and work with different internal teams, thereby offering the best in class customer service. In line with our philosophy of taking the entire bank to the customers, our relationship managers work on the whole suite of offerings like saving solutions, loan products, overdraft solutions, Insta loans, investment solutions, care products, trade solutions, business loans, or wealth management solutions while upholding our fundamental value of being Fair to the Bank and Fair to the Customer.
-
-Bankable individuals not just Bankers: We hire from diverse educational background!
-We at ICICI Bank are in continuous pursuit of creating consistent customer delight and superior experience. Our Relationship Managers are empowered individuals who champion the cause of customer experience and have penchant for building and nurturing business relationships. If you are an individual, whose heart echoes with our aspiration, look no more. We do not just choose diverse minds but celebrate their success. If you are a bankable individual without banking experience, you are very much welcome. Our training programs equip you to get ready for the role of a Relationship Manager. You are welcome to apply for the role.
-Key Responsibilities
-lifecycle
-Customer Service
-
-Create service excellence by partnering with customers through their life cycle and offering suitable products and services based on their financial needs while being fair to the customer and fair to the bank in all engagements. 
-market Business Development
- Ensuring a growth in wallet share of existing customers and on boarding new customers by offering 360-degree banking solutions that meet the needs of our customers. 
- roadmap Champion 360-degree banking
- Offer products based on customer needs in collaboration with other internal teams in the bank for suitable product offerings.
- portfolio Enhance the portfolio quality
- Work towards enhancing customer portfolio within the philosophy of Fair to Bank, Fair to Customer tech Customized solutions 
-As per branch guidelines. Upkeep and maintaining  of the branch. Ensure availability of necessary infrastructure in the branch. portfolio Behold our values
-
-Offer products that are fair to our customers and fair to the bank.
 `
 },{
   id: 123,
@@ -3925,60 +3839,7 @@ Offer products that are fair to our customers and fair to the bank.
   location: "Ahemdabad Hybrid",
   Stipend: " 3-8 Lacs P.A.",
   fulldescription:`
-About the Role
 
-
-
-We are seeking a motivated Associate Support Developer to join our team. In this role, you will bridge the gap between development and client success by providing essential technical assistance to our partners and external organizations. You will serve as a technical expert ,developer and assistant.
-
-
-
-Key Responsibilities
-
-
-
-
-Develop and maintain scalable web applications using Next.js, React.js, and Node.js.
-Build and integrate RESTful APIs.
-Work with modern databases (SQL and NoSQL) such as MySQL, PostgreSQL, and MongoDB.
-Create responsive and user-friendly interfaces following UI/UX best practices.
-Write clean, efficient, and reusable code adhering to coding standards.
-Act as a technical point of contact for clients and external organizations, providing expert guidance and hands-on assistance.
-Work directly with external technical teams to troubleshoot integrations and resolve platform-related queries.
-Assist in maintaining and updating web applications built with Next.js, React.js, and Node.js.
-Identify, debug, and fix issues reported by clients or internal monitoring tools.
-Help develop minor features or custom scripts to meet specific client needs.
-Work closely with senior developers and product managers to communicate client feedback and improve the overall product.
-Required Skills and Qualifications
-
-
-
-0-1+ years of experience in web development or a technical support/assistant role.
-Foundational Coding Knowledge: Strong understanding of JavaScript and basic programming logic.
-Frontend Basics: Proficiency in React.js and Next.js.
-Backend Basics: Familiarity with Node.js and how APIs work.
-Problem-Solving: Ability to analyze a technical issue and find a logical solution.
-Communication: Excellent verbal and written communication skills, with the ability to explain technical concepts to external partners clearly.
-Version Control: Basic knowledge of Git and GitHub/GitLab.
-
-Nice to Have
-
-
-Knowledge of Redis, MeiliSearch, GraphQL, or WebSockets.
-Experience with cloud platforms (AWS, GCP, or Azure).
-Experience in a client-facing or technical assistant role.
-Familiarity with SQL or NoSQL databases.
-Basic understanding of CSS frameworks like Tailwind.
-Knowledge of Postman or similar tools for testing APIs.
-
-What We Offer
-
-
-Competitive compensation package.
-Flexible work schedule.
-Opportunity to work on challenging and impactful projects.
-Supportive and collaborative team environment.
-Career development and learning opportunities.
 `
 },{
   id: 124,
@@ -3988,19 +3849,6 @@ Career development and learning opportunities.
   location: "Hyderabad",
   Stipend: "₹ 15K/Month - 20K/Month",
   fulldescription:`
-Key Responsibilities:
-Develop and enhance cross-platform mobile applications using Flutter & Dart for Android and iOS
-Implement application features, UI improvements, and performance optimizations
-Assist in integrating backend APIs and Firebase services required for mobile applications
-Work with databases and cloud services such as Firebase / MongoDB
-Follow clean coding practices, use Git/GitHub, and collaborate effectively in a remote team setup
-Requirements:
-Students currently pursuing a degree in Computer Science, Software Engineering, or a related field
-Hands-on experience with Flutter & Dart (academic or personal projects are acceptable)
-Basic understanding of JavaScript and backend/API concepts
-Familiarity with Firebase or similar backend services
-Understanding of Data Structures and Algorithms
-Good problem-solving skills and willingness to learn
 `
 },{
   id: 125,
@@ -4010,30 +3858,7 @@ Good problem-solving skills and willingness to learn
   location: "Remote ",
   Stipend: "$5k – $10k",
   fulldescription:`
-Early engineering team member at a prop-tech startup building AI-powered real estate operations and smart-home infrastructure. Owned end-to-end feature development across backend, frontend, and cloud systems, contributing directly to live production deployments.
 
-Hires remotely in Everywhere
-Remote Work Policy: Remote only
-
-Company Location: Dubai
-Visa Sponsorship: Not Available
-Preferred Timezones : Dubai Time
-Relocation : Not Allowed
-
-
-Impact:
-
-Shipped customer-facing dashboards and internal tools used by operations teams
-
-Built REST/WebSocket APIs powering IoT and automation workflows
-
-Integrated smart devices (Zigbee2MQTT, locks, cameras, sensors)
-
-Improved performance and reliability of multi-tenant architecture
-
-Helped automate provisioning and updates using Terraform + Docker
-
-Worked across the stack in a fast-paced, high-ownership environment
 `
 },{
   id: 126,
@@ -4043,82 +3868,6 @@ Worked across the stack in a fast-paced, high-ownership environment
   location: "Bangalore",
   Stipend: "N/A",
   fulldescription:`
-What you'll do
-
-
-As an engineer on the reporting team, we expect you to have a good understanding of everything data, as well as back-end code development. Your day to day work will involve owning the designing and execution of medium complexity features. This position will demand critical thinking skills, ability to quickly understand existing systems and the ability to work in agile, fast paced environments. The ability to take smart and educated risks is essential to the success of this position. 
-
- 
-
-This position is an individual contributor role reporting to Senior Manager, Software Engineering.
-
- 
-
-Responsibility
-
-Own feature delivery end to end from ideation to deployment and monitoring
-
-Participate in the team's on call rotation and help triage alerts and incidents
-
-Review other team member's code and design document
-
-Suggest and own improvement to the system and coding standards
-
-
-Job Designation
-
-
-Hybrid:
-Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)
-
- 
-
-Positions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law.
-
-
-What you bring
-
-
-Basic
-
-Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience
-
-Proficiency in one or more modern programming languages (e.g., Java, C#, Go, Python) and solid computer science fundamentals (data structures, algorithms, system design)
-
-Demonstrated experience developing and delivering production features with high-quality code and reliable tests (unit, component, contract, integration, end-to-end, performance); designs for testability
-
-Experience participating in code reviews and adhering to team guidelines and best practices
-
-Hands-on experience with CI/CD pipelines; able to debug pipeline issues and analyze system logs
-
-Familiarity with public cloud environments (Azure, AWS, or GCP), containers (Docker), and orchestration (Kubernetes)
-
-Experience with monitoring, metrics, and logging; capable of building basic telemetry for features
-
-Ability to participate in on-call using service runbooks/SOPs and perform root cause analysis with minimal guidance
- 
-
-Preferred
-
-Comfort working across multiple components and with external dependencies in complex environments
-
-Strong communication and collaboration skills; able to work effectively with cross-functional partners
-
-Track record of independently owning and delivering features end-to-end.
-
-Experience authoring and owning testing plans for features and identifying patterns in test failures
-
-Experience contributing to and improving deployment pipelines and test automation systems
-
-Experience designing for scalability, reliability, and performance; writes extensible, shareable code and raises the bar through thoughtful code reviews
-
-Experience defining useful metrics/targets and measurably improving engineering processes and best practices
-
-Exposure to distributed systems, microservices, REST APIs, and/or event-driven architectures
-
-Hands-on experience with relational and NoSQL databases, performance testing, and optimization
-
-Comfortable collaborating in a global, distributed team and working across time zones
 `
 },{
   id: 127,
@@ -4128,19 +3877,7 @@ Comfortable collaborating in a global, distributed team and working across time 
   location: "N/A",
   Stipend: "N/A",
   fulldescription:`
-About the role: 
 
-Cleartrip is currently recruiting for the position of Software Development Engineer I (SDE 1).
-
-Selection Process Details:
-
-1. HackerEarth Assessment: Should your profile be shortlisted, you will receive an official email invitation to complete a mandatory online assessment via the HackerEarth platform. The link provided in this email will be valid for a period of 24 hours only.
-
-2. Virtual Machine Coding Round: Candidates who successfully clear the online assessment will be invited to participate in a virtual machine coding round, which will precede the final in-person interview.
-
-3. In-Person Interview: The final in-person interview.
-
-Kindly ensure your availability for all stages of the selection process. We appreciate your interest in Cleartrip and look forward to reviewing your profile.
 `
 },{
   id: 128,
@@ -4150,27 +3887,7 @@ Kindly ensure your availability for all stages of the selection process. We appr
   location: "Kozhikode, Bengaluru",
   Stipend: "N/A",
   fulldescription:`
-Job Description
-Expertise in React Js and Node JS
-Good to have understanding of state-management patterns such as Redux, Flux or similar
-Experience working with SQL or NoSQL databases
-Experience with Git version control
-Required Candidate profile
-Good communication skills
-Proficient in JavaScript, ES6 and TypeScript
-Experience in RESTful API development
-Understanding in HTML, CSS/SASS
-Education
-Any Graduate in Any Specialization
-Division : Development
-Role: Front End Developer
-Industry Type: Software Product
-Department: Engineering - Software & QA
-Employment Type: Full Time, Permanent
-Role Category: Software Development
-Education
-UG: Any Graduate
-PG: Any Postgraduate
+
 `
 },{
   id: 129,
@@ -4180,31 +3897,7 @@ PG: Any Postgraduate
   location: "Bangalore",
   Stipend: "N/A",
   fulldescription:`
-Job description
-ORG : A Software services and product company founded in 2013
 
-ROLE: Responsible for designing, developing, and implementing frontend code using REACT and NODE.Js
-
-SKILLS:
-
-- React.Js (Very Good)
-- Node.Js (Good)
-- Python (good to have)
-
-Required Candidate profile
-
-- Good coding skills in REACT
-- HTML5, CSS3, TypeScript, and JavaScript.
-- Knowledge of server-side development using Node.js or similar
-- English Fluency
-- B. Tech - Computer Science / Electronics
-Role: Front End Developer
-Industry Type: Industrial Equipment / Machinery
-Department: Engineering - Software & QA
-Employment Type: Full Time, Permanent
-Role Category: Software Development
-Education
-UG: Bachelor of Technology / Bachelor of Engineering (B.Tech/B.E.) in Electronics and Telecommunication Engineering
 `
 },{
   id: 130,
@@ -4214,27 +3907,7 @@ UG: Bachelor of Technology / Bachelor of Engineering (B.Tech/B.E.) in Electronic
   location: "South Delhi",
   Stipend: "₹ 20K/Month - 50K/Month",
   fulldescription:`
-Eligibility : Fresher
 
-What You’ll Do:
-
-Collaborate with senior developers to build and maintain responsive web applications.
-Work on front-end interfaces using HTML, CSS, and JavaScript (React/Next.js experience is a plus!).
-Assist in API integrations and backend optimizations.
-Participate in code reviews and agile sprints.
-Help troubleshoot, debug, and upgrade our platform.
-What’s In It For You?
-
-True Flexibility: Enjoy a mix of Remote and Office days (Hybrid).
-Real Impact: Work on live projects that reach thousands of users.
-Mentorship: Learn directly from experienced engineers.
-Certificate & Stipend: Get rewarded for your hard work and growth.
-Who We’re Looking For:
-
-A student or recent graduate in CS, IT, or a related field.
-Hands-on experience with modern web frameworks.
-A problem-solver who isn't afraid to dive deep into a bug.
-Strong communication skills and a team-player attitude.
 `
 },{
   id: 131,
@@ -4244,107 +3917,7 @@ Strong communication skills and a team-player attitude.
   location: "N/A",
   Stipend: "N/A",
   fulldescription:`
-We are looking for a skilled Java Developer to design, develop, and maintain scalable backend systems. The ideal candidate has strong experience in Java-based microservices, event-driven architectures using Kafka and RabbitMQ, and modern containerized deployments with Docker and Kubernetes.
 
-
-
-Essential functions
-
-
-Design, develop, and maintain high-performance Java applications
-
-Build and manage microservices-based architectures
-
-Implement event-driven and messaging solutions using Apache Kafka and RabbitMQ
-
-Develop RESTful APIs and integrate with external services
-
-Containerize applications using Docker and deploy/manage them on Kubernetes
-
-Optimize application performance, scalability, and reliability
-
-Write clean, maintainable, and testable code following best practices
-
-Collaborate with cross-functional teams (DevOps, QA, Product)
-
-Participate in code reviews and contribute to technical design discussions
-
-Troubleshoot production issues and provide timely resolutions
-
-
-
-
-Qualifications
-
-
-Strong proficiency in Java (Java 8+)
-
-Experience with Spring / Spring Boot
-
-Hands-on experience with Apache Kafka and RabbitMQ
-
-Solid understanding of microservices architecture
-
-Experience with Docker for containerization
-
-Practical knowledge of Kubernetes (K8s) for orchestration
-
-Familiarity with REST APIs, JSON, and HTTP
-
-Experience with relational and/or NoSQL databases
-
-Understanding of CI/CD pipelines and DevOps practices
-
-Good problem-solving and debugging skills
-
-
-
-
-Would be a plus
-
-
-Experience with cloud platforms (AWS, Azure, GCP)
-
-Knowledge of Helm, Prometheus, Grafana
-
-Exposure to Reactive Programming (WebFlux, RxJava)
-
-Experience with security best practices (OAuth2, JWT)
-
-Understanding of domain-driven design (DDD)
-
-
-
-
-We offer
-
-
-Opportunity to work on bleeding-edge projects
-
-Work with a highly motivated and dedicated team
-
-Competitive salary
-
-Flexible schedule
-
-Benefits package - medical insurance, sports
-
-Corporate social events
-
-Professional development opportunities
-
-Well-equipped office
-
-
-
-Role: Back End Developer
-Industry Type: IT Services & Consulting
-Department: Engineering - Software & QA
-Employment Type: Full Time, Permanent
-Role Category: Software Development
-Education
-UG: Any Graduate
-PG: Any Postgraduate
 `
 },{
   id: 132,
@@ -4354,25 +3927,7 @@ PG: Any Postgraduate
   location: "Greater Noida",
   Stipend: "N/A",
   fulldescription:`
-Eligibility : Fresher
-Details
-What You’ll Work On:
 
-Internal marketplace to manage brands, products, and sorting attributes
-WordPress-based frontend integration
-Structuring data and logic for future AI use
-What We’re Looking For:
-
-Strong full-stack development experience
-Experience building internal tools or admin systems
-Comfortable working with WordPress + custom APIs & Shopify
-Ability to think in systems and logic, not just UI
-Bonus: Experience with headless systems, early-stage products, or recommendation logic.
-
-This Role Is Not:
-
-A generic e-commerce role
-Influencer tech or marketing tech
 
 `
 },{
@@ -4383,67 +3938,7 @@ Influencer tech or marketing tech
   location: "Delhi",
   Stipend: "₹ 30K/Month - 35K/Month",
   fulldescription:`
-Details
-We are looking for a single full-stack web developer who can independently handle an entire web project — from planning to deployment — using modern coding practices and AI tools.
 
-This role is ideal for someone who believes in “vibe coding”: fast iteration, AI-assisted development, clean architecture, and an ownership mindset.
-
-Responsibilities:
-
-Build complete web applications (frontend + backend)
-Translate ideas into working products, not just code
-Use AI tools (ChatGPT, Copilot, etc.) for faster development
-Design and consume APIs
-Handle database design & integration
-Deploy and maintain applications on cloud platforms
-Debug, optimize, and scale existing code
-Take full ownership of assigned projects
-Required Technical Skills
-
-Frontend:
-
-HTML, CSS, JavaScript (strong basics)
-React / Next.js / Vue (any one is fine)
-Responsive UI & component-based design
-Backend:
-
-Node.js / Python (FastAPI, Django) / PHP / similar
-REST APIs (must)
-Authentication & authorization
-Business logic handling
-Database:
-
-SQL (MySQL / PostgreSQL) OR
-NoSQL (MongoDB)
-Schema design & query optimization
-Deployment & DevOps (basic but real):
-
-Git & GitHub
-Hosting on AWS / Vercel / DigitalOcean / similar
-Environment variables, builds, basic CI/CD understanding
-AI & Vibe Coding Expectations:
-
-Uses AI daily for:
-Code generation
-Refactoring
-Debugging
-Documentation
-Knows how to prompt, not just copy-paste
-Can explain why AI-generated code works
-Focus on speed + correctness, not perfection paralysis
-Mindset (Non-Negotiable):
-
-Builder mindset > tutorial mindset
-Can work independently
-Comfortable taking decisions
-Thinks in features, not files
-Honest about limitations (huge plus)
-Nice to Have (Not Mandatory):
-
-Experience with automation / AI APIs
-SaaS or startup project experience
-Stripe / Razorpay / payment integrations
-Role-based dashboards (admin/user panels)
 `
 },{
   id: 134,
@@ -4453,11 +3948,7 @@ Role-based dashboards (admin/user panels)
   location: "N/A",
   Stipend: "N/A",
   fulldescription:`
-General Instructions:
-Asterisk(*) fields are compulsory.
-By filling out this registration form you are taking the first step toward a successful career with us.
-By registering today, you are committing to take a recorded online assessment, with one of our virtual recruiters, to assess your suitability for a role with us. This interview can either be taken immediately or at a time convenient to you.
-Good luck! And we hope to see you working with us very soon.
+
 `
 },{
   id: 135,
@@ -4467,50 +3958,7 @@ Good luck! And we hope to see you working with us very soon.
   location: "Hybrid",
   Stipend: "N/A",
   fulldescription:`
-About the role:
 
-This role is offered under the National Apprenticeship Training Scheme (NATS) in accordance with the Apprentices Act, 1961.The Apprentice – Data Issue Management will undergo structured, on-the-job training within the Finance Data Governance organization, supporting the Data Issue Management & Risk Monitoring function. The role is designed to provide practical exposure, skill development, and industry-relevant learning, preparing the apprentice for future employability in finance and data governance functions. The apprentice will work under close supervision and guidance of senior team members and will not be considered a regular employee.
-
-Key responsibilities
-
-Support the Data Issue Management lifecycle, including issue intake, documentation, classification, prioritization, root cause analysis, remediation tracking, and closure validation.
-
-Assist in monitoring data risks across key finance datasets and reports under defined supervision.
-
-Learn and support risk-based monitoring activities, including early warning indicators, basic risk metrics, and control effectiveness tracking.
-
-Maintain and update a centralized log of data issues, ensuring accuracy, traceability, and audit readiness.
-
-Support preparation of reports and dashboards for internal stakeholders, focusing on issue trends, remediation status, and key risk insights
-
-Participate in structured training sessions, knowledge-sharing forums, and mandatory compliance learnings as required under NATS.
-
-Minimum Qualifications
-
-Candidate must be within five years of graduation completion.
-
-Candidate must have less than or equal to 11 months of prior work experience (not mandatory).
-
-Candidate must not have completed apprenticeship under any Government of India apprenticeship scheme earlier
-
-Basic understanding of finance, data, or reporting concepts.
-
-Strong analytical thinking and problem-solving ability.
-
-Working knowledge of MS Excel and PowerPoint.
-
-Willingness to learn tools related to data quality, data governance, and reporting (e.g., Collibra, SQL – exposure preferred, not mandatory).
-
-Good communication skills and ability to work collaboratively with multiple teams.
-
-Positive attitude, learning agility, and curiosity to develop new skills.
-
-
-At American Express, our culture is built on a 175-year history of innovation, shared values and leadership behaviors, and an unwavering commitment to back our customers, communities and colleagues. As part of Team Amex, you’ll experience this powerful backing:
-
-
-• Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
-• Career development and training opportunities
 `
 },{
   id: 136,
@@ -4520,35 +3968,6 @@ At American Express, our culture is built on a 175-year history of innovation, s
   location: "Chennai",
   Stipend: "N/A",
   fulldescription:`
-Overview:
-
-We are seeking intellectually curious and motivated fresh graduates to join as Full Stack Developers. You'll gain comprehensive programming experience across frontend and backend technologies, preparing you for future opportunities in specialized AI research roles.
-
-
-Key Responsibilities:
-
-Learn and implement both frontend and backend programming practices.
-Build and maintain scalable web applications.
-Collaborate with cross-functional teams to enhance development processes.
-Actively participate in discussions, offering innovative solutions and creative ideas.
-Document methodologies, results, and contribute to research publications.
-Continuously explore and adopt new technologies and frameworks.
-
-Requirements:
-
-Bachelor's degree in any discipline (Engineering/Computer Science preferred but not mandatory).
-Strong logical reasoning and high intellectual potential.
-Basic understanding of HTML, CSS, JavaScript, and backend languages(Node.js, Java, Python).
-Strong foundation in mathematics and statistics, including calculus, linear algebra, probability, and statistical inference.
-Curiosity and enthusiasm for learning.
-
-
-What We Offer:
-
-A dynamic and innovative work environment in an advanced AI research team.
-Opportunities for professional growth, mentorship, and learning.
-Competitive salary and benefits.
-Access to the latest tools and technologies in AI.
 
 `
 },{
@@ -4559,72 +3978,7 @@ Access to the latest tools and technologies in AI.
   location: "Mumbai",
   Stipend: "N/A",
   fulldescription:`
-Job description
-Join our engineering team as an AI/ML Engineer and work onnext-generation AI and Machine Learning applications. This is an excellentopportunity for fresh graduates passionate about Artificial Intelligence,Machine Learning, and modern web application development. Youll help buildintuitive, high-performance user interfaces and robust machine learning modelsfor real-world Generative AI applications such as chatbots, AI assistants,dashboards, and data-driven workflows.
-Key Responsibilities
-Frontend AI Application Development
-Develop responsive and interactive web interfaces for AI/ML-powered applications.
-Convert UI/UX designs (Figma / Adobe XD) into pixel-perfect, reusable frontend components using React.js or Angular.js.
-Integrate frontend applications with backend and AI APIs (REST / streaming APIs).
-Optimize applications for scalability, performance, and cross-browser compatibility.
-Implement accessibility standards (WCAG) and ensure usability and performance.
-Machine Learning Model Development Implementation
-Design, develop, and optimize machine learning models for business use cases.
-Conduct feature engineering, selection, and hyperparameter tuning.
-Deploy ML and LLM models to production environments using Azure ML and Azure Cloud.
-Set up CI/CD pipelines, model monitoring, logging, and lifecycle governance.
-Data Engineering Processing
-Clean, preprocess, and transform large-scale datasets for ML model training.
-Build and maintain robust, automated data pipelines for ingestion and processing.
-Work with structured and unstructured data from multiple sources, ensuring data quality and validation.
-API Development Backend Integration
-Design and develop high-performance REST APIs using FastAPI for ML/LLM inference.
-Expose ML and AI agent capabilities via secure, scalable backend services.
-Integrate APIs with Azure services and manage authentication, authorization, and request validation.
-Collaboration Agile Practices
-Collaborate closely with backend engineers, AI/ML teams, UI/UX designers, and product managers.
-Participate in code reviews, sprint discussions, and Agile ceremonies.
-Stay updated with the latest trends in frontend, GenAI UX, and AI/ML technologies.
-Required Skills Qualifications
-Technical Skills
-Programming: Python (for ML) and JavaScript (ES6+) for frontend development.
-Frontend Frameworks: React.js (preferred) or Angular.js.
-Styling: Bootstrap, Tailwind CSS, Material UI, or Ant Design.
-Backend Frameworks: FastAPI.
-ML Frameworks: Scikit-learn, XGBoost, Random Forest, Boosting Models, SVM.
-Deep Learning: PyTorch, Keras.
-LLM Frameworks: GPT-based models, OpenAI, RAG systems, Chatbots, AI Agents.
-Cloud Platforms: Azure ML and Azure Cloud (added advantage).
-Databases: SQL and NoSQL (eg, MongoDB).
-Version Control: Git and GitHub/GitLab.
-Containerization: Docker.
-Tools: VS Code or similar IDEs; npm/yarn basics.
-Good to Have Skills
-Generative AI / ML concepts (LLMs, chatbots, AI assistants).
-Experience building chat interfaces or dashboards.
-TypeScript fundamentals; state management (Redux / Context API / Zustand).
-Streaming responses / WebSockets.
-Node.js or Python for backend API integration.
-Agile/Scrum methodologies.
-Web accessibility and performance optimization.
-MLOps tools (MLflow), model interpretability, explainable AI (XAI).
-End-to-end AI product development (Model API UI).
-Big-data technologies (Apache Spark).
-Soft Skills
-Strong analytical and problem-solving abilities.
-Excellent communication skills.
-Adaptability to evolving AI and technology landscape.
-Effective teamwork in cross-functional teams.
-Educational Qualifications
-Bachelors or Masters degree in Computer Science, Data Science, Mathematics, or related field.
-Role: Full Stack Developer
-Industry Type: IT Services & Consulting
-Department: Engineering - Software & QA
-Employment Type: Full Time, Permanent
-Role Category: Software Development
-Education
-UG: Any Graduate
-PG: LLM in Law, Any Postgraduate
+
 `
 }
 ]
