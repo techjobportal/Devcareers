@@ -44,7 +44,11 @@ const resourceData = [
     description: "Complete SQL learning roadmap from basics to advanced concepts",
     price: "Free",
     link: "https://topmate.io/meet_g/1850885",
-    image: sql0to100
+    image: sql0to100,
+    isPopular: false,
+    isBestSeller: true,
+    isPlacementFocused: false,
+    isAdvancedLevel: false
   },
   // {
   //   id: 2,
@@ -55,14 +59,20 @@ const resourceData = [
   //   image: fresherHiring
   // },
   {
-    id:34,
+    id:34,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "2000+ HR emails & Famous IT companies emails",
     description:"This includes combined 2000+ emails of HR and IT companies",
     price:"₹29",
     link:"https://topmate.io/meet_g/1870617",
     image: hremails
   },{
-    id: 0,
+    id: 0,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "React.js Vs Next.js Notes",
     description: "Comprehensive comparison guide between React.js and Next.js frameworks",
     price: "Free",
@@ -70,7 +80,10 @@ const resourceData = [
     image: reactVsNext
   },
   {
-    id: 1,
+    id: 1,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Promise vs Async_Await",
     description: "Clear explanation of asynchronous JavaScript patterns and their differences",
     price: "Free",
@@ -78,7 +91,10 @@ const resourceData = [
     image: promiseVsAsync
   },
   {
-    id: 3,
+    id: 3,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "JavaScript Cheatsheet 20+ Pages",
     description: "Extensive JavaScript reference guide covering core concepts and syntax",
     price: "Free",
@@ -86,7 +102,10 @@ const resourceData = [
     image: jsCheatsheet
   },
   {
-    id: 4,
+    id: 4,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Java Cheatsheet",
     description: "Quick reference guide for Java programming language fundamentals",
     price: "Free",
@@ -94,7 +113,10 @@ const resourceData = [
     image: javaCheatsheet
   },
   {
-    id: 5,
+    id: 5,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "MERN Stack Roadmap (0 - 100)",
     description: "Complete learning path from beginner to advanced MERN stack development",
     price: "Free",
@@ -102,7 +124,10 @@ const resourceData = [
     image: mernRoadmap
   },
   {
-    id: 6,
+    id: 6,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "MongoDB Cheatsheet",
     description: "Essential MongoDB commands and operations reference guide",
     price: "Free",
@@ -110,7 +135,10 @@ const resourceData = [
     image: mongoCheatsheet
   },
   {
-    id: 7,
+    id: 7,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "OOPS Concept in Java – Complete Notes + Code",
     description: "Comprehensive guide to Object-Oriented Programming concepts with practical examples",
     price: "Free",
@@ -118,7 +146,10 @@ const resourceData = [
     image: oopsConcept
   },
   {
-    id: 8,
+    id: 8,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "20 JavaScript APIs",
     description: "Collection of 20 essential JavaScript APIs every developer should know",
     price: "Free",
@@ -126,7 +157,10 @@ const resourceData = [
     image: jsApis
   },
   {
-    id: 9,
+    id: 9,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "HTML CSS Interview Questions",
     description: "Common interview questions and answers for HTML and CSS",
     price: "Free",
@@ -134,7 +168,10 @@ const resourceData = [
     image: htmlCssInterview
   },
   {
-    id: 10,
+    id: 10,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "CSS Complete Cheatsheet",
     description: "Comprehensive CSS properties and selectors reference guide",
     price: "Free",
@@ -142,7 +179,10 @@ const resourceData = [
     image: cssCheatsheet
   },
   {
-    id: 11,
+    id: 11,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "100 Must Do Leetcode Problems",
     description: "Curated list of essential LeetCode problems for interview preparation",
     price: "Free",
@@ -150,7 +190,10 @@ const resourceData = [
     image: mustDoLeetcode
   },
   {
-    id: 12,
+    id: 12,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "7 Coding Principles Every Developer Should Know",
     description: "Fundamental coding principles for writing clean and maintainable code",
     price: "Free",
@@ -158,7 +201,10 @@ const resourceData = [
     image: codingPrinciples
   },
   {
-    id: 13,
+    id: 13,isPopular: false,
+    isBestSeller: true,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "100+ Tips, Templates, Harvard Sample & Rules",
     description: "Professional resume building guide with templates and expert tips",
     price: "₹29",
@@ -166,7 +212,10 @@ const resourceData = [
     image: resumeTips
   },
   {
-    id: 14,
+    id: 14,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Pentest CheatSheets",
     description: "Essential penetration testing commands and techniques reference",
     price: "₹9",
@@ -174,7 +223,10 @@ const resourceData = [
     image: pentest
   },
   {
-    id: 15,
+    id: 15,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "Oracle - DSA Interview Question with Solutions",
     description: "Data structures and algorithms questions specifically for Oracle interviews",
     price: "₹9",
@@ -182,7 +234,10 @@ const resourceData = [
     image: oracleDsa
   },
   {
-    id: 16,
+    id: 16,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Redis Cheatsheet",
     description: "Quick reference guide for Redis commands and data structures",
     price: "₹9",
@@ -190,7 +245,10 @@ const resourceData = [
     image: redisCheatsheet
   },
   {
-    id: 17,
+    id: 17,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "15+ CompanyWise Leetcode",
     description: "LeetCode problems organized by top tech companies",
     price: "₹29",
@@ -198,7 +256,10 @@ const resourceData = [
     image: companyWise
   },
   {
-    id: 18,
+    id: 18,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "100+ DSA Questions with solutions",
     description: "Comprehensive collection of data structures and algorithms problems with solutions",
     price: "₹9",
@@ -206,7 +267,10 @@ const resourceData = [
     image: dsaQuestions
   },
   {
-    id: 19,
+    id: 19,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: true,
     title: "SQL Cheatsheet",
     description: "Complete SQL commands and query reference guide",
     price: "₹9",
@@ -214,7 +278,10 @@ const resourceData = [
     image: sqlCheatsheet
   },
   {
-    id: 20,
+    id: 20,isPopular: true,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Git complete Cheatsheet",
     description: "Essential Git commands and workflows for version control",
     price: "Free",
@@ -222,7 +289,10 @@ const resourceData = [
     image: gitCheatsheet
   },
   {
-    id: 21,
+    id: 21,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Test Automation with Playwright & TypeScript",
     description: "Guide to automated testing using Playwright and TypeScript",
     price: "Free",
@@ -231,7 +301,10 @@ const resourceData = [
   },
   
   {
-    id: 23,
+    id: 23,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Node.js Cheat Sheet",
     description: "Quick reference for Node.js modules and essential APIs",
     price: "Free",
@@ -239,7 +312,10 @@ const resourceData = [
     image: nodeCheatsheet
   },
   {
-    id: 24,
+    id: 24,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: true,
     title: "FrontEnd Notes - Html, AJAX, jQuery, Bootstrap, JS",
     description: "Comprehensive frontend development notes covering multiple technologies",
     price: "Free",
@@ -247,7 +323,10 @@ const resourceData = [
     image: frontendNotes
   },
   {
-    id: 25,
+    id: 25,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Master the MERN Stack 270+ pages",
     description: "In-depth MERN stack guide with extensive coverage and examples",
     price: "₹29",
@@ -255,7 +334,10 @@ const resourceData = [
     image: mernMaster
   },
   {
-    id: 26,
+    id: 26,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "React.js 0 - Interview Resources (8 PDFs)",
     description: "Complete React.js interview preparation bundle with 8 comprehensive PDFs",
     price: "₹39",
@@ -263,7 +345,10 @@ const resourceData = [
     image: reactInterview8PDF
   },
   {
-    id: 27,
+    id: 27,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Top 50 React Interview Questions",
     description: "Most commonly asked React interview questions with detailed answers",
     price: "₹29",
@@ -271,7 +356,10 @@ const resourceData = [
     image: top50React
   },
   {
-    id: 28,
+    id: 28,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "50+ Page Complete JS Cheatsheet",
     description: "Extensive JavaScript reference covering all core concepts and features",
     price: "₹9",
@@ -279,7 +367,10 @@ const resourceData = [
     image: jsCheatsheet50
   },
   {
-    id: 29,
+    id: 29,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "100+ JavaScript Functions & Methods Cheatsheet",
     description: "Comprehensive collection of JavaScript built-in functions and methods",
     price: "₹9",
@@ -287,7 +378,10 @@ const resourceData = [
     image: jsMethods
   },
   {
-    id: 30,
+    id: 30,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "100 JavaScript Interview Questions",
     description: "Essential JavaScript interview questions for technical interviews",
     price: "₹12",
@@ -295,7 +389,10 @@ const resourceData = [
     image: js100Interview
   },
   {
-    id: 31,
+    id: 31,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "150 Most Asked Java Interview Questions",
     description: "Comprehensive Java interview preparation with frequently asked questions",
     price: "₹19",
@@ -303,7 +400,10 @@ const resourceData = [
     image: java150Interview
   },
   {
-    id: 32,
+    id: 32,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false,
     title: "Node.js CheatSheet - 0 to Deployment",
     description: "Complete Node.js guide from development to production deployment",
     price: "₹9",
@@ -311,7 +411,10 @@ const resourceData = [
     image: nodeDeployment
   },
   {
-    id: 33,
+    id: 33,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "40 Node.js Interview Questions + Answers",
     description: "Essential Node.js interview questions with detailed explanations",
     price: "₹9",
@@ -319,7 +422,10 @@ const resourceData = [
     image: node40Interview
   },
   {
-    id: 35,
+    id: 35,isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: false,
     title: "System Desgin Handbook 70+ pages",
     description: "Essential System Desgin questions with detailed explanations",
     price: "₹19",
