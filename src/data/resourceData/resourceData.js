@@ -35,6 +35,8 @@ import node40Interview from '../../assets/40+ node js.png';
 import resumeTips from '../../assets/resumetips.png';
 import hremails from '../../assets/hremails.png';
 import systemDesign from '../../assets/systemDesign.png';
+import HRques from '../../assets/HRques.png';
+import basicques from '../../assets/basicques.png';
 
 const resourceData = [
   {
@@ -443,6 +445,28 @@ const resourceData = [
     price: "₹9",
     link: "https://topmate.io/meet_g/1891515",
     image: systemDesign
+  },{
+    id:36,
+    title: 'Complete Interview Preparation Pack (HR + Aptitude + Verbal + Reasoning)',
+    description: "All-in-one placement pack covering HR answers, aptitude, verbal ability, and logical reasoning with structured practice.",
+    price: "₹19",
+    link: "https://topmate.io/meet_g/1963977",
+    image: HRques,
+    isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false
+  },{
+    id:37,
+    title: '40 Basic Coding ques should do before starting DSA',
+    description: "40 essential coding problems to build logic and fundamentals before starting DSA preparation.",
+    price: "Free",
+    link: "https://topmate.io/meet_g/1964024",
+    image: basicques,
+    isPopular: false,
+    isBestSeller: false,
+    isPlacementFocused: false,
+    isAdvancedLevel: false
   }
 ];
 
