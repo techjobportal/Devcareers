@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 // Environment variables (Vite uses import.meta.env)
-const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-const EMAILJS_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+const EMAILJS_SERVICE_ID = 'service_p8e5ryw';
+const EMAILJS_TEMPLATE_ID = 'template_gq10icu';
+const EMAILJS_PUBLIC_KEY = 'v-3hNuDkN-OIpaeKR';
 const RECIPIENT_EMAIL = import.meta.env.VITE_RECIPIENT_EMAIL;
 const YOUTUBE_LINK = import.meta.env.VITE_YOUTUBE_LINK;
 const WHATSAPP_LINK = import.meta.env.VITE_WHATSAPP_LINK;

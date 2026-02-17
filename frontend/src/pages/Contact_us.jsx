@@ -1,7 +1,9 @@
 import React, { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 const Contact_Us = () => {
   const [copied, setCopied] = useState(false)
+  const navigate = useNavigate()
   const email = import.meta.env.VITE_RECIPIENT_EMAIL
   const copyEmail = () => {
     navigator.clipboard.writeText(email)
@@ -82,19 +84,39 @@ const Contact_Us = () => {
                 </div>
               </div>
 
+              {/* Resource Issues — with Purchase Query button */}
               <div className="flex items-start gap-3 p-4 rounded-lg bg-gradient-to-br from-white to-orange-50 border border-orange-100 hover:border-orange-300 transition-all hover:shadow-md">
                 <div className="w-2 h-2 bg-[#FA5500] rounded-full mt-2 flex-shrink-0"></div>
-                <div>
+                <div className="flex-1">
                   <h3 className="font-semibold text-black text-sm">Resource Issues</h3>
                   <p className="text-xs text-black/60 mt-1">Problems with purchased or downloaded materials</p>
+                  <button
+                    onClick={() => navigate('/purchase-query')}
+                    className="mt-2.5 flex items-center gap-1.5 px-3 py-1.5 bg-[#FA5500] hover:bg-orange-600 text-white text-xs font-semibold rounded-lg transition-colors"
+                  >
+                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                    </svg>
+                    Purchase Query
+                  </button>
                 </div>
               </div>
 
+              {/* Feedback & Complaints — with Purchase Query button */}
               <div className="flex items-start gap-3 p-4 rounded-lg bg-gradient-to-br from-white to-orange-50 border border-orange-100 hover:border-orange-300 transition-all hover:shadow-md">
                 <div className="w-2 h-2 bg-[#FA5500] rounded-full mt-2 flex-shrink-0"></div>
-                <div>
+                <div className="flex-1">
                   <h3 className="font-semibold text-black text-sm">Feedback & Complaints</h3>
                   <p className="text-xs text-black/60 mt-1">Share your experience or concerns</p>
+                  <button
+                    onClick={() => navigate('/purchase-query')}
+                    className="mt-2.5 flex items-center gap-1.5 px-3 py-1.5 bg-[#FA5500] hover:bg-orange-600 text-white text-xs font-semibold rounded-lg transition-colors"
+                  >
+                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                    </svg>
+                    Purchase Query
+                  </button>
                 </div>
               </div>
 

@@ -44,14 +44,27 @@ const resourceData = [
     title: "SQL Beginner to Advanced (0 - 100)",
     description: "Complete SQL learning roadmap from basics to advanced concepts",
     price: "₹1",
-    link: "https://topmate.io/meet_g/1850885",
+    link: "https://drive.google.com/file/d/1yMzP2taOetwW8AT_K00TgUu2RTd2cr3j/view?usp=drive_link",
     image: sql0to100,
     isPopular: false,
     isBestSeller: true,
     isPlacementFocused: false,
     isAdvancedLevel: false,
     copiesSold: "55",
-longDescription: `Complete guide with detailed content...`
+longDescription: `100 SQL Questions with Answers
+25 Basic Level Question
+25 Intermediate Questions
+25 Advanced Questions
+15 Real-Time Scenario-Based Questions
+10 SQL Optimization Technique Questions
+17-Page Complete SQL Cheatsheet (BONUS)
+Why You Should Buy This?
+Covers SQL from beginner to advanced in one place
+Includes real interview-level scenario questions
+Helps you understand query optimization clearly
+Perfect for placements, internships, and backend roles
+Quick revision using the structured cheatsheet
+`
 }
 //   },
 //   // // {

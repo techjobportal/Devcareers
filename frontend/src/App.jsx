@@ -11,6 +11,7 @@ import Header1 from './components/Header1'
 import { Analytics } from "@vercel/analytics/react"
 import UnderMaintenance from './components/UnderMaintenance'
 import ResourceDetailToPurchase from './components/ResourceDetailToPurchase'
+import PurchaseQueryPage from './pages/PurchaseQueryPage'
 
 const App = () => {
   return (
@@ -34,6 +35,7 @@ const App = () => {
         <Route path="/contact-us" element={<Contact_us />} />
         <Route path="/legal-info" element={<Legal_info />} />
         <Route path="/subscribe-us" element={<SubscribeUs/>}/>
+        <Route path='/purchase-query' element={<PurchaseQueryPage/>}/>
       </Routes>
       <Analytics />
     </div>
