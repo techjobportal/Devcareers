@@ -58,7 +58,8 @@ longDescription: `100 SQL Questions with Answers
 15 Real-Time Scenario-Based Questions
 10 SQL Optimization Technique Questions
 17-Page Complete SQL Cheatsheet (BONUS)
-Why You Should Buy This?
+`,
+shouldYouBuyFor: `
 Covers SQL from beginner to advanced in one place
 Includes real interview-level scenario questions
 Helps you understand query optimization clearly

@@ -12,6 +12,7 @@ import { Analytics } from "@vercel/analytics/react"
 import UnderMaintenance from './components/UnderMaintenance'
 import ResourceDetailToPurchase from './components/ResourceDetailToPurchase'
 import PurchaseQueryPage from './pages/PurchaseQueryPage'
+import ScrollToTop from './components/ScrollToTop';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
     <div>
       <Header1 />
       <Header />
+      <ScrollToTop/>
       <Routes>
         <Route path="/" element={<Home />} />
 

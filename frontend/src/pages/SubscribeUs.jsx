@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
+import { useNavigate } from 'react-router-dom';
 
 // Environment variables (Vite uses import.meta.env)
 const EMAILJS_SERVICE_ID = 'service_p8e5ryw';
@@ -10,6 +11,7 @@ const YOUTUBE_LINK = import.meta.env.VITE_YOUTUBE_LINK;
 const WHATSAPP_LINK = import.meta.env.VITE_WHATSAPP_LINK;
 
 const SubscribeUs = () => {
+	  const navigate = useNavigate();   // 👈 ADD THIS
 	const [formData, setFormData] = useState({
 		name: '',
 		email: '',
@@ -70,7 +72,18 @@ const SubscribeUs = () => {
 
 	return (
 		<div className="min-h-screen bg-gradient-to-br from-orange-50 to-white py-12 px-4 sm:px-6 lg:px-8">
+			
 			<div className="max-w-4xl mx-auto">
+				{/* Back to Home */}
+        <button
+          onClick={() => navigate('/')}
+          className="flex items-center gap-2 text-amber-600 hover:text-amber-700 font-medium text-sm mb-6 transition-colors"
+        >
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+          </svg>
+          Back to Home
+        </button>
 				{/* Header */}
 				<div className="text-center mb-12">
 					<h1 className="text-4xl font-bold text-gray-900 mb-4">

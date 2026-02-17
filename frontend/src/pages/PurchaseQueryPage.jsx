@@ -94,7 +94,8 @@ const PurchaseQueryPage = () => {
   };
 
   if (submitted) return (
-    <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gradient-to-b from-white via-orange-50 to-orange-100
+ flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-xl p-10 max-w-md w-full text-center">
         <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-5">
           <svg className="w-10 h-10 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -117,7 +118,8 @@ const PurchaseQueryPage = () => {
   );
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 py-10 px-4">
+    <div className="min-h-screen bg-gradient-to-b from-white via-orange-50 to-orange-100
+ py-10 px-4">
       <div className="max-w-lg mx-auto">
 
         {/* Back to Home */}
